@@ -1,0 +1,3527 @@
+[
+    {
+        "place_id": "ChIJs4JO3mqj9YgRGm_fkVt5qOY",
+        "name": "North Georgia Urgent Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1364,
+        "website": "http://www.mynguc.com/",
+        "owner": {
+            "id": "102663073689960399774",
+            "name": "North Georgia Urgent Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/102663073689960399774"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7tFpfIIE0ejkQ7EncJ_IKUGasL1BftcaZzUk0=w408-h240-k-no-pi-0-ya165.36913-ro-0-fo100",
+        "main_category": "Urgent care center",
+        "categories": [
+            "Urgent care center",
+            "Emergency care service",
+            "Family practice physician"
+        ],
+        "rating": 4.7,
+        "workday_timing": "8 AM-8 PM",
+        "closed_on": [
+            "Thursday"
+        ],
+        "phone": "(678) 680-4290",
+        "address": "North Georgia Urgent Care, 1630 Pleasant Hill Rd #340, Duluth, GA 30096",
+        "review_keywords": [
+            {
+                "keyword": "god",
+                "count": 16
+            },
+            {
+                "keyword": "job",
+                "count": 14
+            },
+            {
+                "keyword": "primary doctor",
+                "count": 12
+            },
+            {
+                "keyword": "funny",
+                "count": 10
+            },
+            {
+                "keyword": "lady",
+                "count": 10
+            },
+            {
+                "keyword": "PA",
+                "count": 9
+            },
+            {
+                "keyword": "PCP",
+                "count": 7
+            },
+            {
+                "keyword": "drug test",
+                "count": 6
+            },
+            {
+                "keyword": "work",
+                "count": 5
+            },
+            {
+                "keyword": "surgery",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Georgia+Urgent+Care/data=!4m7!3m6!1s0x88f5a36ade4e82b3:0xe6a8795b91df6f1a!8m2!3d33.9454649!4d-84.1246406!16s%2Fg%2F1tdp5wzf!19sChIJs4JO3mqj9YgRGm_fkVt5qOY?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJFXn_Gyye9YgRMxvrkubFv7A",
+        "name": "North Atlanta Primary Care Alpharetta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 909,
+        "website": "https://www.southeastmedicalgroup.com/locations/alpharetta",
+        "owner": {
+            "id": "114202490351569050877",
+            "name": "North Atlanta Primary Care Alpharetta (Owner)",
+            "link": "https://www.google.com/maps/contrib/114202490351569050877"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEERUySGlcuS8C8CKr8aqNmxsbf4O8cnWmtNbL=w408-h306-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Internist"
+        ],
+        "rating": 4.1,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Alpharetta, 3905 Brookside Pkwy Suite 300, Alpharetta, GA 30022",
+        "review_keywords": [
+            {
+                "keyword": "nurse",
+                "count": 98
+            },
+            {
+                "keyword": "office",
+                "count": 94
+            },
+            {
+                "keyword": "healthcare",
+                "count": 36
+            },
+            {
+                "keyword": "bill",
+                "count": 28
+            },
+            {
+                "keyword": "primary care physician",
+                "count": 27
+            },
+            {
+                "keyword": "messages",
+                "count": 21
+            },
+            {
+                "keyword": "PA",
+                "count": 15
+            },
+            {
+                "keyword": "portal",
+                "count": 8
+            },
+            {
+                "keyword": "vitals",
+                "count": 7
+            },
+            {
+                "keyword": "charge",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Alpharetta/data=!4m7!3m6!1s0x88f59e2c1bff7915:0xb0bfc5e692eb1b33!8m2!3d34.0600915!4d-84.2491759!16s%2Fg%2F1tdqjb1v!19sChIJFXn_Gyye9YgRMxvrkubFv7A?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJP9pKFurV-YgRhAa5dRt96ig",
+        "name": "Center for Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 883,
+        "website": "http://www.centerforprimarycare.com/",
+        "owner": {
+            "id": "113103155152620605831",
+            "name": "Center for Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/113103155152620605831"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLCIPRN6kJGRw6mxojdeU_SsrO0Mvsmhu0B81B=w408-h296-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 4.8,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(706) 922-1600",
+        "address": "Center for Primary Care, 4039 Gateway Blvd, Grovetown, GA 30813",
+        "review_keywords": [
+            {
+                "keyword": "questions",
+                "count": 40
+            },
+            {
+                "keyword": "nurse",
+                "count": 36
+            },
+            {
+                "keyword": "office",
+                "count": 35
+            },
+            {
+                "keyword": "primary care physician",
+                "count": 22
+            },
+            {
+                "keyword": "health care",
+                "count": 18
+            },
+            {
+                "keyword": "concerns",
+                "count": 13
+            },
+            {
+                "keyword": "compassionate",
+                "count": 11
+            },
+            {
+                "keyword": "felt",
+                "count": 8
+            },
+            {
+                "keyword": "prescription",
+                "count": 8
+            },
+            {
+                "keyword": "retired",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Center+for+Primary+Care/data=!4m7!3m6!1s0x88f9d5ea164ada3f:0x28ea7d1b75b90684!8m2!3d33.4787381!4d-82.1946772!16s%2Fg%2F1pp2vcdw7!19sChIJP9pKFurV-YgRhAa5dRt96ig?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJuXcZ5glV9IgRutgqA0LHEEk",
+        "name": "Aylo Health - Primary Care at Ellenwood",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 743,
+        "website": "https://aylohealth.com/location/south-atlanta/primary-care-at-ellenwood/",
+        "owner": {
+            "id": "103123361804120444693",
+            "name": "Aylo Health - Primary Care at Ellenwood (Owner)",
+            "link": "https://www.google.com/maps/contrib/103123361804120444693"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUjxVwAGROAu6ccTOC3X31tT0IQGoXxCkErOPS=w426-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 4.5,
+        "workday_timing": "8 AM-7 PM",
+        "closed_on": [
+            "Thursday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 289-6747",
+        "address": "Aylo Health - Primary Care at Ellenwood, 211 Fairview Rd, Ellenwood, GA 30294",
+        "review_keywords": [
+            {
+                "keyword": "call",
+                "count": 16
+            },
+            {
+                "keyword": "desk",
+                "count": 16
+            },
+            {
+                "keyword": "prescription",
+                "count": 13
+            },
+            {
+                "keyword": "insurance",
+                "count": 13
+            },
+            {
+                "keyword": "information",
+                "count": 13
+            },
+            {
+                "keyword": "nurse",
+                "count": 12
+            },
+            {
+                "keyword": "test",
+                "count": 9
+            },
+            {
+                "keyword": "blood",
+                "count": 8
+            },
+            {
+                "keyword": "medical assistant",
+                "count": 5
+            },
+            {
+                "keyword": "doctors office",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Aylo+Health+-+Primary+Care+at+Ellenwood/data=!4m7!3m6!1s0x88f45509e61977b9:0x4910c742032ad8ba!8m2!3d33.6187192!4d-84.2426696!16s%2Fg%2F11c3tx3dcb!19sChIJuXcZ5glV9IgRutgqA0LHEEk?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJcZB0Y8_19IgRsUQlgwnIz70",
+        "name": "Aylo Health - Primary Care at Hampton",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 669,
+        "website": "https://aylohealth.com/location/south-atlanta/primary-care-at-hampton/",
+        "owner": {
+            "id": "114503372975615000335",
+            "name": "Aylo Health - Primary Care at Hampton (Owner)",
+            "link": "https://www.google.com/maps/contrib/114503372975615000335"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPf7o2MeJiSV8ghtGp_fqOo_ZQTe6RdzyOe149k=w426-h240-k-no",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician"
+        ],
+        "rating": 4.6,
+        "workday_timing": "8 AM-7 PM",
+        "closed_on": [
+            "Thursday"
+        ],
+        "phone": "(770) 707-0808",
+        "address": "Aylo Health - Primary Care at Hampton, 1058 Bear Creek Blvd, Hampton, GA 30228",
+        "review_keywords": [
+            {
+                "keyword": "desk",
+                "count": 17
+            },
+            {
+                "keyword": "prescription",
+                "count": 14
+            },
+            {
+                "keyword": "nurses",
+                "count": 11
+            },
+            {
+                "keyword": "information",
+                "count": 11
+            },
+            {
+                "keyword": "insurance",
+                "count": 10
+            },
+            {
+                "keyword": "nurse practitioner",
+                "count": 9
+            },
+            {
+                "keyword": "blood",
+                "count": 9
+            },
+            {
+                "keyword": "attention",
+                "count": 7
+            },
+            {
+                "keyword": "understanding",
+                "count": 7
+            },
+            {
+                "keyword": "pharmacy",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Aylo+Health+-+Primary+Care+at+Hampton/data=!4m7!3m6!1s0x88f4f5cf63749071:0xbdcfc809832544b1!8m2!3d33.3826626!4d-84.301762!16s%2Fg%2F1ts3032x!19sChIJcZB0Y8_19IgRsUQlgwnIz70?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJKTOVE1lQ9IgRICzCBGmCPto",
+        "name": "Aylo Health - Primary Care at McDonough, Hwy 155",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 649,
+        "website": "https://aylohealth.com/location/south-atlanta/primary-care-at-mcdonough-hwy-155/",
+        "owner": {
+            "id": "103043400568146447121",
+            "name": "Aylo Health - Primary Care at McDonough, Hwy 155 (Owner)",
+            "link": "https://www.google.com/maps/contrib/103043400568146447121"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNsX_7imNYpR7T7yakifNJ5QoM8GFuX-kjsc_hc=w426-h240-k-no",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician"
+        ],
+        "rating": 4.6,
+        "workday_timing": "8 AM-7 PM",
+        "closed_on": [
+            "Thursday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 490-0341",
+        "address": "Aylo Health - Primary Care at McDonough, Hwy 155, 2200 GA-155 N, McDonough, GA 30252",
+        "review_keywords": [
+            {
+                "keyword": "feel",
+                "count": 18
+            },
+            {
+                "keyword": "nurse",
+                "count": 15
+            },
+            {
+                "keyword": "team",
+                "count": 12
+            },
+            {
+                "keyword": "healthcare",
+                "count": 10
+            },
+            {
+                "keyword": "information",
+                "count": 10
+            },
+            {
+                "keyword": "doctor's office",
+                "count": 9
+            },
+            {
+                "keyword": "front office",
+                "count": 9
+            },
+            {
+                "keyword": "diagnosis",
+                "count": 9
+            },
+            {
+                "keyword": "medication",
+                "count": 6
+            },
+            {
+                "keyword": "call",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Aylo+Health+-+Primary+Care+at+McDonough,+Hwy+155/data=!4m7!3m6!1s0x88f4505913953329:0xda3e826904c22c20!8m2!3d33.5098994!4d-84.1383713!16s%2Fg%2F1w2y_8nw!19sChIJKTOVE1lQ9IgRICzCBGmCPto?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJge9Seku79YgRgQMyCCwrza8",
+        "name": "Premier Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 610,
+        "website": "http://premierprimarycarellc.com/",
+        "owner": {
+            "id": "107306485924039518792",
+            "name": "Premier Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/107306485924039518792"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-DvlMbHYIHXDk8e8uJE3Iy39fov6MEMnkRH_S=w408-h272-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Internist"
+        ],
+        "rating": 4.8,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 736-3008",
+        "address": "Premier Primary Care, 2121 Fountain Dr Suite A, Snellville, GA 30078",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 83
+            },
+            {
+                "keyword": "nurse",
+                "count": 32
+            },
+            {
+                "keyword": "questions",
+                "count": 23
+            },
+            {
+                "keyword": "primary care doctor",
+                "count": 14
+            },
+            {
+                "keyword": "front office",
+                "count": 11
+            },
+            {
+                "keyword": "environment",
+                "count": 10
+            },
+            {
+                "keyword": "lab",
+                "count": 10
+            },
+            {
+                "keyword": "PA",
+                "count": 8
+            },
+            {
+                "keyword": "doctor's office",
+                "count": 8
+            },
+            {
+                "keyword": "blood work",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Premier+Primary+Care/data=!4m7!3m6!1s0x88f5bb4b7a52ef81:0xafcd2b2c08320381!8m2!3d33.8577327!4d-84.0302548!16s%2Fg%2F11h46b9x4q!19sChIJge9Seku79YgRgQMyCCwrza8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJWWyVDDTO-YgR3U8an02XWeE",
+        "name": "Center for Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 553,
+        "website": "http://www.centerforprimarycare.com/",
+        "owner": {
+            "id": "109060163862822543926",
+            "name": "Center for Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/109060163862822543926"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWItVuGTNe4U0sSWb6R3cLxuyESieybX1ob6h-=w408-h271-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 4.7,
+        "workday_timing": "8:30 AM-8 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(706) 798-1700",
+        "address": "Center for Primary Care, 2011 Windsor Spring Rd, Augusta, GA 30906",
+        "review_keywords": [
+            {
+                "keyword": "questions",
+                "count": 24
+            },
+            {
+                "keyword": "health",
+                "count": 20
+            },
+            {
+                "keyword": "primary care physician",
+                "count": 13
+            },
+            {
+                "keyword": "understanding",
+                "count": 10
+            },
+            {
+                "keyword": "doctors office",
+                "count": 8
+            },
+            {
+                "keyword": "april",
+                "count": 6
+            },
+            {
+                "keyword": "retired",
+                "count": 5
+            },
+            {
+                "keyword": "lab",
+                "count": 5
+            },
+            {
+                "keyword": "nurse",
+                "count": 5
+            },
+            {
+                "keyword": "blood",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Center+for+Primary+Care/data=!4m7!3m6!1s0x88f9ce340c956c59:0xe159974d9f1a4fdd!8m2!3d33.4100745!4d-82.0238973!16s%2Fg%2F1tj4hxj9!19sChIJWWyVDDTO-YgR3U8an02XWeE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJvRSc-Nia9YgR_lozAtNpa3o",
+        "name": "North Atlanta Primary Care Cumming",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 483,
+        "website": "https://www.southeastmedicalgroup.com/locations/cumming",
+        "owner": {
+            "id": "113187856452770165268",
+            "name": "North Atlanta Primary Care Cumming (Owner)",
+            "link": "https://www.google.com/maps/contrib/113187856452770165268"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOa9s5GA69qB21hBYv1z_KQL1Fu5RIO4pdx2KE2=w408-h280-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.1,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 947-6440",
+        "address": "North Atlanta Primary Care Cumming, 1800 Northside Forsyth Dr 450 450, Cumming, GA 30041",
+        "review_keywords": [
+            {
+                "keyword": "nurse",
+                "count": 24
+            },
+            {
+                "keyword": "lab",
+                "count": 20
+            },
+            {
+                "keyword": "insurance",
+                "count": 19
+            },
+            {
+                "keyword": "message",
+                "count": 18
+            },
+            {
+                "keyword": "waiting room",
+                "count": 16
+            },
+            {
+                "keyword": "results",
+                "count": 11
+            },
+            {
+                "keyword": "front desk",
+                "count": 9
+            },
+            {
+                "keyword": "referral",
+                "count": 6
+            },
+            {
+                "keyword": "office manager",
+                "count": 6
+            },
+            {
+                "keyword": "portal",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Cumming/data=!4m7!3m6!1s0x88f59ad8f89c14bd:0x7a6b69d302335afe!8m2!3d34.1774241!4d-84.1426865!16s%2Fg%2F1vg6vl4l!19sChIJvRSc-Nia9YgR_lozAtNpa3o?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJG_dXgzyZ9YgRsf-EdNk9kaE",
+        "name": "North Atlanta Primary Care Johns Creek",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 338,
+        "website": "https://www.southeastmedicalgroup.com/locations/johns-creek",
+        "owner": {
+            "id": "116750876604689992900",
+            "name": "North Atlanta Primary Care Johns Creek (Owner)",
+            "link": "https://www.google.com/maps/contrib/116750876604689992900"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=u1TNe96eAw_L1SLks1HtFA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=117.6736&pitch=0&thumbfov=100",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 3.8,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 402-9550",
+        "address": "North Atlanta Primary Care Johns Creek, 4235 Johns Creek Pkwy A A, Suwanee, GA 30024",
+        "review_keywords": [
+            {
+                "keyword": "insurance",
+                "count": 19
+            },
+            {
+                "keyword": "message",
+                "count": 15
+            },
+            {
+                "keyword": "nurse",
+                "count": 14
+            },
+            {
+                "keyword": "test",
+                "count": 11
+            },
+            {
+                "keyword": "lab",
+                "count": 11
+            },
+            {
+                "keyword": "blood work",
+                "count": 10
+            },
+            {
+                "keyword": "PA",
+                "count": 10
+            },
+            {
+                "keyword": "desk",
+                "count": 8
+            },
+            {
+                "keyword": "email",
+                "count": 7
+            },
+            {
+                "keyword": "patient portal",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Johns+Creek/data=!4m7!3m6!1s0x88f5993c8357f71b:0xa1913dd97484ffb1!8m2!3d34.0730736!4d-84.1696023!16s%2Fg%2F1tgdt_31!19sChIJG_dXgzyZ9YgRsf-EdNk9kaE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJRZtwK9Br9YgRzcwHqraLtlg",
+        "name": "North Atlanta Primary Care Woodstock",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 231,
+        "website": "https://www.southeastmedicalgroup.com/locations/woodstock",
+        "owner": {
+            "id": "101717285780946205533",
+            "name": "North Atlanta Primary Care Woodstock (Owner)",
+            "link": "https://www.google.com/maps/contrib/101717285780946205533"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkoGRIfePCONyU_Kt-roDZTW-RnEK3U-u7Z9lW=w408-h306-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Woodstock, 250 Parkbrooke Pl 300 300, Woodstock, GA 30189",
+        "review_keywords": [
+            {
+                "keyword": "call",
+                "count": 18
+            },
+            {
+                "keyword": "front desk",
+                "count": 15
+            },
+            {
+                "keyword": "insurance",
+                "count": 13
+            },
+            {
+                "keyword": "nurses",
+                "count": 12
+            },
+            {
+                "keyword": "healthcare",
+                "count": 10
+            },
+            {
+                "keyword": "prescription",
+                "count": 10
+            },
+            {
+                "keyword": "lab",
+                "count": 9
+            },
+            {
+                "keyword": "blood work",
+                "count": 7
+            },
+            {
+                "keyword": "PA",
+                "count": 5
+            },
+            {
+                "keyword": "referral",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Woodstock/data=!4m7!3m6!1s0x88f56bd02b709b45:0x58b68bb6aa07cccd!8m2!3d34.1113267!4d-84.5607603!16s%2Fg%2F1thct5bs!19sChIJRZtwK9Br9YgRzcwHqraLtlg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJAzJsIkwJ9YgR2rigP76CgjU",
+        "name": "North Atlanta Primary Care Sandy Springs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 219,
+        "website": "https://www.southeastmedicalgroup.com/locations/sandy-springs",
+        "owner": {
+            "id": "117449590275480308967",
+            "name": "North Atlanta Primary Care Sandy Springs (Owner)",
+            "link": "https://www.google.com/maps/contrib/117449590275480308967"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTMp62Ke4gEmR1X--WaXdewjhREmIzyNkgIuHC=w408-h306-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 3.8,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Sandy Springs, 1150 Hammond Dr 310 310, Atlanta, GA 30328",
+        "review_keywords": [
+            {
+                "keyword": "prescription",
+                "count": 22
+            },
+            {
+                "keyword": "call",
+                "count": 22
+            },
+            {
+                "keyword": "primary care doctor",
+                "count": 19
+            },
+            {
+                "keyword": "syrup",
+                "count": 10
+            },
+            {
+                "keyword": "testing",
+                "count": 10
+            },
+            {
+                "keyword": "voicemail",
+                "count": 9
+            },
+            {
+                "keyword": "patient portal",
+                "count": 7
+            },
+            {
+                "keyword": "nurse",
+                "count": 7
+            },
+            {
+                "keyword": "PA",
+                "count": 6
+            },
+            {
+                "keyword": "blood tests",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Sandy+Springs/data=!4m7!3m6!1s0x88f5094c226c3203:0x358282be3fa0b8da!8m2!3d33.9195588!4d-84.3491191!16s%2Fg%2F11bc8_tc_g!19sChIJAzJsIkwJ9YgR2rigP76CgjU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJMZ8ShB4E9YgRM3aXpJEa-eI",
+        "name": "Highland Urgent Care & Family Medicine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 218,
+        "website": "https://hucfm.com/",
+        "owner": {
+            "id": "112994665476300250955",
+            "name": "Highland Urgent Care & Family Medicine (Owner)",
+            "link": "https://www.google.com/maps/contrib/112994665476300250955"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhWCjzGpEscySy86_tsm3xD-AUUXqzdbqS8qr8=w408-h271-k-no",
+        "main_category": "Urgent care center",
+        "categories": [
+            "Urgent care center",
+            "Emergency care service",
+            "Family practice physician",
+            "Medical clinic",
+            "Walk-in clinic"
+        ],
+        "rating": 4.1,
+        "workday_timing": "9 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 815-1957",
+        "address": "Highland Urgent Care & Family Medicine, 920 Ponce De Leon Ave NE, Atlanta, GA 30306",
+        "review_keywords": [
+            {
+                "keyword": "travel",
+                "count": 6
+            },
+            {
+                "keyword": "doctors office",
+                "count": 6
+            },
+            {
+                "keyword": "fee",
+                "count": 5
+            },
+            {
+                "keyword": "costs",
+                "count": 5
+            },
+            {
+                "keyword": "write",
+                "count": 5
+            },
+            {
+                "keyword": "check",
+                "count": 5
+            },
+            {
+                "keyword": "vaccine",
+                "count": 4
+            },
+            {
+                "keyword": "portal",
+                "count": 4
+            },
+            {
+                "keyword": "trust",
+                "count": 3
+            },
+            {
+                "keyword": "doctor visit",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Highland+Urgent+Care+%26+Family+Medicine/data=!4m7!3m6!1s0x88f5041e84129f31:0xe2f91a91a4977633!8m2!3d33.7741318!4d-84.357222!16s%2Fg%2F113k5hdww!19sChIJMZ8ShB4E9YgRM3aXpJEa-eI?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJAzeL9agF9YgRXXqRTIM-UFM",
+        "name": "AvitaCare Atlanta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 184,
+        "website": "https://avitacareatlanta.com/",
+        "owner": {
+            "id": "112856137441054339350",
+            "name": "AvitaCare Atlanta (Owner)",
+            "link": "https://www.google.com/maps/contrib/112856137441054339350"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPg8-aLgwYRxvTff3pyDeYV3kKaPtemDRgEa_KC=w426-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "General practitioner",
+            "HIV testing center",
+            "Medical laboratory",
+            "Nutritionist",
+            "Pharmacy",
+            "STD clinic",
+            "STD testing service"
+        ],
+        "rating": 4.4,
+        "workday_timing": "7:30 AM-5:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 231-4431",
+        "address": "AvitaCare Atlanta, 2140 Peachtree Rd #232, Atlanta, GA 30309",
+        "review_keywords": [
+            {
+                "keyword": "nurse",
+                "count": 15
+            },
+            {
+                "keyword": "healthcare",
+                "count": 13
+            },
+            {
+                "keyword": "professional",
+                "count": 11
+            },
+            {
+                "keyword": "feel",
+                "count": 11
+            },
+            {
+                "keyword": "team",
+                "count": 9
+            },
+            {
+                "keyword": "needs",
+                "count": 9
+            },
+            {
+                "keyword": "prescription",
+                "count": 8
+            },
+            {
+                "keyword": "PCP",
+                "count": 7
+            },
+            {
+                "keyword": "front desk",
+                "count": 6
+            },
+            {
+                "keyword": "call",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/AvitaCare+Atlanta/data=!4m7!3m6!1s0x88f505a8f58b3703:0x53503e834c917a5d!8m2!3d33.8127588!4d-84.3936117!16s%2Fg%2F11nmmnjc_t!19sChIJAzeL9agF9YgRXXqRTIM-UFM?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJGXBxCFn584gRWzSFzUdupVM",
+        "name": "Southern Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 168,
+        "website": "https://www.southernprimarycare.com/",
+        "owner": {
+            "id": "102579313990261619018",
+            "name": "Southern Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/102579313990261619018"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnF1DcclX-rOAs-ToNASYKen27ubaCIQY9LWej=w408-h272-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Doctor",
+            "Family practice physician",
+            "Walk-in clinic"
+        ],
+        "rating": 4.6,
+        "workday_timing": "8 AM-1 PM, 2-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(478) 477-0966",
+        "address": "Southern Primary Care, 197 Bass Rd, Macon, GA 31210",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 15
+            },
+            {
+                "keyword": "office",
+                "count": 12
+            },
+            {
+                "keyword": "nurse practitioner",
+                "count": 9
+            },
+            {
+                "keyword": "call",
+                "count": 7
+            },
+            {
+                "keyword": "health",
+                "count": 6
+            },
+            {
+                "keyword": "prescription",
+                "count": 4
+            },
+            {
+                "keyword": "lab",
+                "count": 3
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Southern+Primary+Care/data=!4m7!3m6!1s0x88f3f95908717019:0x53a56e47cd85345b!8m2!3d32.8810007!4d-83.7452813!16s%2Fg%2F11fr77j9ww!19sChIJGXBxCFn584gRWzSFzUdupVM?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJrQW9BKIN9YgRPG4ogVBoki0",
+        "name": "North Atlanta Primary Care East Cobb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 163,
+        "website": "https://www.southeastmedicalgroup.com/locations/east-cobb",
+        "owner": {
+            "id": "116709019144958525297",
+            "name": "North Atlanta Primary Care East Cobb (Owner)",
+            "link": "https://www.google.com/maps/contrib/116709019144958525297"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxVnvcDpFens1hw1JKZCi-n7TcrKdeNxMxWl_i=w408-h306-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 341-6370",
+        "address": "North Atlanta Primary Care East Cobb, 4800 Olde Towne Pkwy 320 320, Marietta, GA 30068",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 22
+            },
+            {
+                "keyword": "call",
+                "count": 18
+            },
+            {
+                "keyword": "insurance",
+                "count": 12
+            },
+            {
+                "keyword": "dr",
+                "count": 12
+            },
+            {
+                "keyword": "prescriptions",
+                "count": 11
+            },
+            {
+                "keyword": "questions",
+                "count": 11
+            },
+            {
+                "keyword": "healthcare",
+                "count": 10
+            },
+            {
+                "keyword": "money",
+                "count": 10
+            },
+            {
+                "keyword": "primary care doctor",
+                "count": 10
+            },
+            {
+                "keyword": "results",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+East+Cobb/data=!4m7!3m6!1s0x88f50da204bd05ad:0x2d92685081286e3c!8m2!3d33.9687629!4d-84.4129469!16s%2Fg%2F11byl25j0f!19sChIJrQW9BKIN9YgRPG4ogVBoki0?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJPfGHKjYU9YgR38qvkGGmRbY",
+        "name": "North Atlanta Primary Care Marietta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 158,
+        "website": "https://www.southeastmedicalgroup.com/locations/marietta",
+        "owner": {
+            "id": "107860345476735701814",
+            "name": "North Atlanta Primary Care Marietta (Owner)",
+            "link": "https://www.google.com/maps/contrib/107860345476735701814"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOncvh0JRBHyjBwAeXvaeuztgbf4rBXbvfy1ChH=w408-h544-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.2,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Marietta, 141 Lacy St NW 100 100, Marietta, GA 30060",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 12
+            },
+            {
+                "keyword": "feel",
+                "count": 9
+            },
+            {
+                "keyword": "blood",
+                "count": 7
+            },
+            {
+                "keyword": "nurse",
+                "count": 6
+            },
+            {
+                "keyword": "call",
+                "count": 6
+            },
+            {
+                "keyword": "medical care",
+                "count": 6
+            },
+            {
+                "keyword": "primary care physician",
+                "count": 6
+            },
+            {
+                "keyword": "number",
+                "count": 5
+            },
+            {
+                "keyword": "test",
+                "count": 5
+            },
+            {
+                "keyword": "informative",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Marietta/data=!4m7!3m6!1s0x88f514362a87f13d:0xb645a66190afcadf!8m2!3d33.966307!4d-84.5559398!16s%2Fg%2F11dx9fkx8h!19sChIJPfGHKjYU9YgR38qvkGGmRbY?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJXUsoH-q99YgRXG5A0PImiFc",
+        "name": "North Atlanta Primary Care Lawrenceville",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 144,
+        "website": "https://www.southeastmedicalgroup.com/locations/lawrenceville",
+        "owner": {
+            "id": "111212597118710202693",
+            "name": "North Atlanta Primary Care Lawrenceville (Owner)",
+            "link": "https://www.google.com/maps/contrib/111212597118710202693"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgcd-3o2P-xEqBXLmf02rtZADkCl_5CjQKMe9N=w413-h240-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.2,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 802-4045",
+        "address": "North Atlanta Primary Care Lawrenceville, 771 Old Norcross Rd Suite 225 Suite 225, Lawrenceville, GA 30046",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 15
+            },
+            {
+                "keyword": "call",
+                "count": 10
+            },
+            {
+                "keyword": "feeling",
+                "count": 7
+            },
+            {
+                "keyword": "exam",
+                "count": 6
+            },
+            {
+                "keyword": "price",
+                "count": 6
+            },
+            {
+                "keyword": "voicemail",
+                "count": 5
+            },
+            {
+                "keyword": "healthcare",
+                "count": 5
+            },
+            {
+                "keyword": "nurse",
+                "count": 5
+            },
+            {
+                "keyword": "pay",
+                "count": 5
+            },
+            {
+                "keyword": "patient portal",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Lawrenceville/data=!4m7!3m6!1s0x88f5bdea1f284b5d:0x578826f2d0406e5c!8m2!3d33.9584352!4d-84.0176512!16s%2Fg%2F11fslntmxb!19sChIJXUsoH-q99YgRXG5A0PImiFc?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJy20LKiWZ9YgR-UXLiYA-ApA",
+        "name": "Johns Creek Primary Care Physicians",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 137,
+        "website": "http://www.johnscreekprimarycare.com/",
+        "owner": {
+            "id": "106123754191533423556",
+            "name": "Johns Creek Primary Care Physicians (Owner)",
+            "link": "https://www.google.com/maps/contrib/106123754191533423556"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAJIaFUl7s8nd-XuSV7J8v2xV-PkpegDx-W4ow=w426-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4,
+        "workday_timing": "7 AM-12 PM, 1:30-4 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 957-1910",
+        "address": "Johns Creek Primary Care Physicians, 4365 Johns Creek Pkwy #400, Suwanee, GA 30024",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 25
+            },
+            {
+                "keyword": "insurance",
+                "count": 11
+            },
+            {
+                "keyword": "doctors office",
+                "count": 9
+            },
+            {
+                "keyword": "front desk",
+                "count": 9
+            },
+            {
+                "keyword": "message",
+                "count": 9
+            },
+            {
+                "keyword": "practice",
+                "count": 9
+            },
+            {
+                "keyword": "nurses",
+                "count": 8
+            },
+            {
+                "keyword": "patient portal",
+                "count": 6
+            },
+            {
+                "keyword": "NP",
+                "count": 5
+            },
+            {
+                "keyword": "tests",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Johns+Creek+Primary+Care+Physicians/data=!4m7!3m6!1s0x88f599252a0b6dcb:0x90023e8089cb45f9!8m2!3d34.0711048!4d-84.173931!16s%2Fg%2F1vb9dxkh!19sChIJy20LKiWZ9YgR-UXLiYA-ApA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJhYQObNX584gRGRT994lgXVw",
+        "name": "Southern Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 132,
+        "website": "http://www.southernprimarycare.com/",
+        "owner": {
+            "id": "111026072345212416660",
+            "name": "Southern Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/111026072345212416660"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMs2UjAPbD3cAEkkJEU4yodZ0-2T24VbvjWZN1O=w408-h306-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 4.6,
+        "workday_timing": "8 AM-1 PM, 2-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(478) 477-0966",
+        "address": "Southern Primary Care, 101 Willie Lee Pkwy #400, Warner Robins, GA 31088",
+        "review_keywords": [
+            {
+                "keyword": "feel",
+                "count": 8
+            },
+            {
+                "keyword": "healthcare",
+                "count": 7
+            },
+            {
+                "keyword": "concerns",
+                "count": 6
+            },
+            {
+                "keyword": "questions",
+                "count": 5
+            },
+            {
+                "keyword": "primary care physician",
+                "count": 5
+            },
+            {
+                "keyword": "prescriptions",
+                "count": 4
+            },
+            {
+                "keyword": "desk",
+                "count": 4
+            },
+            {
+                "keyword": "nurse practitioner",
+                "count": 3
+            },
+            {
+                "keyword": "hospitality",
+                "count": 3
+            },
+            {
+                "keyword": "insurance",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Southern+Primary+Care/data=!4m7!3m6!1s0x88f3f9d56c0e8485:0x5c5d6089f7fd1419!8m2!3d32.613767!4d-83.695573!16s%2Fg%2F11fyzd4lp5!19sChIJhYQObNX584gRGRT994lgXVw?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJgzKJ7VOR9YgRKicg4BS7u5M",
+        "name": "North Atlanta Primary Care Sugar Hill",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 123,
+        "website": "https://www.southeastmedicalgroup.com/locations/sugar-hill",
+        "owner": {
+            "id": "114558349335783526196",
+            "name": "North Atlanta Primary Care Sugar Hill (Owner)",
+            "link": "https://www.google.com/maps/contrib/114558349335783526196"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPq5Oq7fwya8lqWz01f97BNw3ise9J4yHWaM698=w408-h306-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 3.9,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Sugar Hill, 4700 Nelson Brogdon Blvd 250 250, Buford, GA 30518",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 16
+            },
+            {
+                "keyword": "primary care physician",
+                "count": 11
+            },
+            {
+                "keyword": "feel",
+                "count": 8
+            },
+            {
+                "keyword": "message",
+                "count": 7
+            },
+            {
+                "keyword": "results",
+                "count": 7
+            },
+            {
+                "keyword": "insurance",
+                "count": 6
+            },
+            {
+                "keyword": "nurses",
+                "count": 6
+            },
+            {
+                "keyword": "team",
+                "count": 5
+            },
+            {
+                "keyword": "information",
+                "count": 5
+            },
+            {
+                "keyword": "EKG",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Sugar+Hill/data=!4m7!3m6!1s0x88f59153ed893283:0x93bbbb14e020272a!8m2!3d34.1014464!4d-84.0227795!16s%2Fg%2F11b7xtl0wp!19sChIJgzKJ7VOR9YgRKicg4BS7u5M?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJUX9UQloF9YgRRJ16r2mIgDo",
+        "name": "North Atlanta Primary Care West Paces",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 119,
+        "website": "https://www.southeastmedicalgroup.com/locations/west-paces",
+        "owner": {
+            "id": "117189189831954055629",
+            "name": "North Atlanta Primary Care West Paces (Owner)",
+            "link": "https://www.google.com/maps/contrib/117189189831954055629"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZWpjq_N3YLJJnN-pOpNbTFokvbvIh81x-Md6z=w408-h306-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.1,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care West Paces, 3200 Downwood Cir NW 200 200, Atlanta, GA 30327",
+        "review_keywords": [
+            {
+                "keyword": "primary care physician",
+                "count": 13
+            },
+            {
+                "keyword": "office",
+                "count": 10
+            },
+            {
+                "keyword": "call",
+                "count": 8
+            },
+            {
+                "keyword": "billing",
+                "count": 7
+            },
+            {
+                "keyword": "nurses",
+                "count": 7
+            },
+            {
+                "keyword": "health",
+                "count": 7
+            },
+            {
+                "keyword": "parking",
+                "count": 6
+            },
+            {
+                "keyword": "feel",
+                "count": 6
+            },
+            {
+                "keyword": "pay",
+                "count": 5
+            },
+            {
+                "keyword": "price",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+West+Paces/data=!4m7!3m6!1s0x88f5055a42547f51:0x3a808869af7a9d44!8m2!3d33.8418674!4d-84.426547!16s%2Fg%2F11bw2_czk6!19sChIJUX9UQloF9YgRRJ16r2mIgDo?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJE9Lq16cT9YgRBxJmbwOn8sQ",
+        "name": "Premier Primary Care Medicine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 116,
+        "website": "https://www.premierpcmed.com/east-cobb-marietta-primary-care-physician.html%3Futm_source%3Dgoogle%26utm_campaign%3Dgoogle_business_profile",
+        "owner": {
+            "id": "102842977262647610341",
+            "name": "Premier Primary Care Medicine (Owner)",
+            "link": "https://www.google.com/maps/contrib/102842977262647610341"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1X94U9X_QWYwY2Fq6lgDiA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=14.115776&pitch=0&thumbfov=100",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician",
+            "Doctor",
+            "Medical clinic",
+            "Medical office",
+            "Physical examination center"
+        ],
+        "rating": 4.9,
+        "workday_timing": "7 AM-4 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 433-8451",
+        "address": "Premier Primary Care Medicine, 3775 Roswell Rd STE 375, Marietta, GA 30062",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 10
+            },
+            {
+                "keyword": "exam",
+                "count": 8
+            },
+            {
+                "keyword": "dr",
+                "count": 8
+            },
+            {
+                "keyword": "communication",
+                "count": 6
+            },
+            {
+                "keyword": "health",
+                "count": 5
+            },
+            {
+                "keyword": "lab",
+                "count": 4
+            },
+            {
+                "keyword": "star",
+                "count": 4
+            },
+            {
+                "keyword": "blood",
+                "count": 3
+            },
+            {
+                "keyword": "needs",
+                "count": 3
+            },
+            {
+                "keyword": "information",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Premier+Primary+Care+Medicine/data=!4m7!3m6!1s0x88f513a7d7ead213:0xc4f2a7036f661207!8m2!3d33.9786483!4d-84.4409383!16s%2Fg%2F11rj6v55r7!19sChIJE9Lq16cT9YgRBxJmbwOn8sQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJu5vj6Jtl9YgReSVJDExu9I4",
+        "name": "North Atlanta Primary Care Canton",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 111,
+        "website": "https://www.southeastmedicalgroup.com/locations/canton",
+        "owner": {
+            "id": "117083196653137784173",
+            "name": "North Atlanta Primary Care Canton (Owner)",
+            "link": "https://www.google.com/maps/contrib/117083196653137784173"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqWeSln4Tjj-A5rXzicuYJ-WlqiIgxmqBNJORA=w408-h272-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.4,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Canton, 1495 Hickory Flat Hwy Suite 100 Suite 100, Canton, GA 30115",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 8
+            },
+            {
+                "keyword": "feel",
+                "count": 6
+            },
+            {
+                "keyword": "prescription",
+                "count": 5
+            },
+            {
+                "keyword": "questions",
+                "count": 5
+            },
+            {
+                "keyword": "dr",
+                "count": 5
+            },
+            {
+                "keyword": "manager",
+                "count": 4
+            },
+            {
+                "keyword": "PA",
+                "count": 3
+            },
+            {
+                "keyword": "messages",
+                "count": 3
+            },
+            {
+                "keyword": "vitals",
+                "count": 3
+            },
+            {
+                "keyword": "walking",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Canton/data=!4m7!3m6!1s0x88f5659be8e39bbb:0x8ef46e4c0c492579!8m2!3d34.2222805!4d-84.472636!16s%2Fg%2F11n87p7_hl!19sChIJu5vj6Jtl9YgReSVJDExu9I4?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJE7mN7PY39YgRxFUeYxfLTmw",
+        "name": "Primary Care Plus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 109,
+        "website": "http://primarycarepluspc.com/",
+        "owner": {
+            "id": "105176563786351977195",
+            "name": "Primary Care Plus (Owner)",
+            "link": "https://www.google.com/maps/contrib/105176563786351977195"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZHdgqt9PYQpACmW9bdFC3Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.07602&pitch=0&thumbfov=100",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 4.7,
+        "workday_timing": "8:30 AM-5 PM",
+        "closed_on": [
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 574-3000",
+        "address": "Primary Care Plus, 51 Seven Hills Blvd, Dallas, GA 30132",
+        "review_keywords": [
+            {
+                "keyword": "cheeks",
+                "count": 27
+            },
+            {
+                "keyword": "health",
+                "count": 11
+            },
+            {
+                "keyword": "professional",
+                "count": 4
+            },
+            {
+                "keyword": "plan",
+                "count": 3
+            },
+            {
+                "keyword": "informative",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Primary+Care+Plus/data=!4m7!3m6!1s0x88f537f6ec8db913:0x6c4ecb17631e55c4!8m2!3d34.0273896!4d-84.7769204!16s%2Fg%2F1hc33qrm4!19sChIJE7mN7PY39YgRxFUeYxfLTmw?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJfcl_HY7u9YgRPOFdoomdnPg",
+        "name": "North Atlanta Primary Care Braselton",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 107,
+        "website": "https://www.southeastmedicalgroup.com/locations/braselton",
+        "owner": {
+            "id": "112200116737400889332",
+            "name": "North Atlanta Primary Care Braselton (Owner)",
+            "link": "https://www.google.com/maps/contrib/112200116737400889332"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOys9vd-QnQsGwsWx22JlTLymDucjmiqXbRgDN=w408-h353-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Family practice physician",
+            "Medical office"
+        ],
+        "rating": 4.1,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 341-6350",
+        "address": "North Atlanta Primary Care Braselton, 1255 Friendship Rd 130 130, Braselton, GA 30517",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 13
+            },
+            {
+                "keyword": "call",
+                "count": 11
+            },
+            {
+                "keyword": "health",
+                "count": 9
+            },
+            {
+                "keyword": "pharmacy",
+                "count": 6
+            },
+            {
+                "keyword": "portal",
+                "count": 5
+            },
+            {
+                "keyword": "questions",
+                "count": 5
+            },
+            {
+                "keyword": "nurses",
+                "count": 4
+            },
+            {
+                "keyword": "PA",
+                "count": 3
+            },
+            {
+                "keyword": "prescriptions",
+                "count": 3
+            },
+            {
+                "keyword": "check up",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Braselton/data=!4m7!3m6!1s0x88f5ee8e1d7fc97d:0xf89c9d89a25de13c!8m2!3d34.1216233!4d-83.8316409!16s%2Fg%2F11cs254tbl!19sChIJfcl_HY7u9YgRPOFdoomdnPg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJP_1ZwH4H9YgRvstuJb345e8",
+        "name": "The Primary Care Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 101,
+        "website": "http://www.primarycarecenter.com/",
+        "owner": {
+            "id": "115926133322285414804",
+            "name": "The Primary Care Center (Owner)",
+            "link": "https://www.google.com/maps/contrib/115926133322285414804"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNoHjuv6svJueDnBtPiAMiaIUJ9q9Jmcz-Soqti=w427-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician",
+            "Internist",
+            "Urgent care center"
+        ],
+        "rating": 3.1,
+        "workday_timing": "9 AM-6 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 298-0008",
+        "address": "The Primary Care Center, 2891 N Decatur Rd C, Decatur, GA 30033",
+        "review_keywords": [
+            {
+                "keyword": "nurse",
+                "count": 11
+            },
+            {
+                "keyword": "insurance",
+                "count": 9
+            },
+            {
+                "keyword": "desk",
+                "count": 7
+            },
+            {
+                "keyword": "call",
+                "count": 7
+            },
+            {
+                "keyword": "prescribed",
+                "count": 6
+            },
+            {
+                "keyword": "urgent care",
+                "count": 6
+            },
+            {
+                "keyword": "physician assistant",
+                "count": 5
+            },
+            {
+                "keyword": "lady",
+                "count": 5
+            },
+            {
+                "keyword": "walk",
+                "count": 5
+            },
+            {
+                "keyword": "money",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/The+Primary+Care+Center/data=!4m7!3m6!1s0x88f5077ec059fd3f:0xefe5f8bd256ecbbe!8m2!3d33.7912338!4d-84.2748885!16s%2Fg%2F1th0nr9c!19sChIJP_1ZwH4H9YgRvstuJb345e8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJIQERW5RP9YgRTx2Ks4nDqG8",
+        "name": "North Atlanta Primary Care Cartersville",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 101,
+        "website": "https://www.southeastmedicalgroup.com/locations/cartersville",
+        "owner": {
+            "id": "117932791205411744064",
+            "name": "North Atlanta Primary Care Cartersville (Owner)",
+            "link": "https://www.google.com/maps/contrib/117932791205411744064"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnKYCisfu9NsMwkh6WnrRtwUOjBRhSRAvTVaMb=w408-h319-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.3,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 386-9390",
+        "address": "North Atlanta Primary Care Cartersville, 17 Collins Dr, Cartersville, GA 30120",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 13
+            },
+            {
+                "keyword": "NP",
+                "count": 4
+            },
+            {
+                "keyword": "lab",
+                "count": 4
+            },
+            {
+                "keyword": "questions",
+                "count": 4
+            },
+            {
+                "keyword": "blood test",
+                "count": 3
+            },
+            {
+                "keyword": "insurance",
+                "count": 3
+            },
+            {
+                "keyword": "information",
+                "count": 3
+            },
+            {
+                "keyword": "feel",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Cartersville/data=!4m7!3m6!1s0x88f54f945b110121:0x6fa8c389b38a1d4f!8m2!3d34.1924722!4d-84.7923684!16s%2Fg%2F1tmxgd7_!19sChIJIQERW5RP9YgRTx2Ks4nDqG8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ70Rsa7er9YgREq9oB3Wgt1M",
+        "name": "Oak Street Health South Dekalb Primary Care Clinic",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 98,
+        "website": "https://www.oakstreethealth.com/locations/decatur-ga/south-dekalb-doctors-office%3Futm_source%3Dlistings%26utm_vpf%3Drep",
+        "owner": {
+            "id": "117940509468946304559",
+            "name": "Oak Street Health South Dekalb Primary Care Clinic (Owner)",
+            "link": "https://www.google.com/maps/contrib/117940509468946304559"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNg-Vvd5Z17KbLHxJ9tJaPuXg0QaxYHbbwJohA0=w408-h271-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Community health centre"
+        ],
+        "rating": 4.5,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(470) 240-0417",
+        "address": "Oak Street Health South Dekalb Primary Care Clinic, 2732 Candler Rd, Decatur, GA 30034",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 20
+            },
+            {
+                "keyword": "nurse",
+                "count": 7
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 6
+            },
+            {
+                "keyword": "office",
+                "count": 6
+            },
+            {
+                "keyword": "questions",
+                "count": 5
+            },
+            {
+                "keyword": "information",
+                "count": 4
+            },
+            {
+                "keyword": "know",
+                "count": 4
+            },
+            {
+                "keyword": "greeting",
+                "count": 3
+            },
+            {
+                "keyword": "polite",
+                "count": 3
+            },
+            {
+                "keyword": "team",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Oak+Street+Health+South+Dekalb+Primary+Care+Clinic/data=!4m7!3m6!1s0x88f5abb76b6c44ef:0x53b7a0750768af12!8m2!3d33.7086278!4d-84.2697396!16s%2Fg%2F11n_zq2d0m!19sChIJ70Rsa7er9YgREq9oB3Wgt1M?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJYXTSPH6r9YgRMUk-lcIq4NM",
+        "name": "HCH Primary Care Clinic",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 96,
+        "website": "https://www.healthcareathomellc.com/",
+        "owner": {
+            "id": "110126223540171979948",
+            "name": "HCH Primary Care Clinic (Owner)",
+            "link": "https://www.google.com/maps/contrib/110126223540171979948"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPIl7dLJD0NCns8HMByJcGEu3wxu2lN8m51-s14=w427-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician",
+            "Health spa",
+            "Medical office",
+            "Nurse practitioner",
+            "Women's health clinic",
+            "STD clinic",
+            "Walk-in clinic",
+            "Weight loss service",
+            "Wellness program"
+        ],
+        "rating": 4.9,
+        "workday_timing": "9 AM-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 465-1933",
+        "address": "HCH Primary Care Clinic, 5243 Snapfinger Woods Dr STE 104, Stonecrest, GA 30035",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 15
+            },
+            {
+                "keyword": "health",
+                "count": 6
+            },
+            {
+                "keyword": "communicate",
+                "count": 6
+            },
+            {
+                "keyword": "office",
+                "count": 6
+            },
+            {
+                "keyword": "felt",
+                "count": 5
+            },
+            {
+                "keyword": "feel",
+                "count": 5
+            },
+            {
+                "keyword": "star",
+                "count": 3
+            },
+            {
+                "keyword": "questions",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/HCH+Primary+Care+Clinic/data=!4m7!3m6!1s0x88f5ab7e3cd27461:0xd3e02ac2953e4931!8m2!3d33.7087417!4d-84.1753708!16s%2Fg%2F11dzdk5gt4!19sChIJYXTSPH6r9YgRMUk-lcIq4NM?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJfTH54DQJ9YgR72tUtEXwlNg",
+        "name": "Primary Care Physicians of Atlanta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 76,
+        "website": "http://www.pcpatl.com/",
+        "owner": {
+            "id": "114928519730591903532",
+            "name": "Primary Care Physicians of Atlanta (Owner)",
+            "link": "https://www.google.com/maps/contrib/114928519730591903532"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNHKGZEp1MCXS1fazhgXWByyecGCADwpm0iiDfu=w449-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 2.6,
+        "workday_timing": "8 AM-4:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 255-9100",
+        "address": "Primary Care Physicians of Atlanta, 5670 Peachtree Dunwoody Rd #1200, Atlanta, GA 30342",
+        "review_keywords": [
+            {
+                "keyword": "front office",
+                "count": 10
+            },
+            {
+                "keyword": "results",
+                "count": 10
+            },
+            {
+                "keyword": "test",
+                "count": 9
+            },
+            {
+                "keyword": "call",
+                "count": 9
+            },
+            {
+                "keyword": "reviews",
+                "count": 6
+            },
+            {
+                "keyword": "information",
+                "count": 6
+            },
+            {
+                "keyword": "attitude",
+                "count": 5
+            },
+            {
+                "keyword": "insurance",
+                "count": 5
+            },
+            {
+                "keyword": "money",
+                "count": 5
+            },
+            {
+                "keyword": "portal",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Primary+Care+Physicians+of+Atlanta/data=!4m7!3m6!1s0x88f50934e0f9317d:0xd894f045b4546bef!8m2!3d33.9097724!4d-84.3530948!16s%2Fg%2F1tf48_93!19sChIJfTH54DQJ9YgR72tUtEXwlNg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJw4gAfPMF9YgRY4RhOid1owI",
+        "name": "North Atlanta Primary Care Midtown",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 74,
+        "website": "https://www.southeastmedicalgroup.com/locations/midtown",
+        "owner": {
+            "id": "112230115308046138881",
+            "name": "North Atlanta Primary Care Midtown (Owner)",
+            "link": "https://www.google.com/maps/contrib/112230115308046138881"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9VmmBKHHsjaWKV-L-Ou1RtJkPsiM1W-v-DCMM=w408-h251-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.3,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 442-1911",
+        "address": "North Atlanta Primary Care Midtown, 1110 W Peachtree St NW 830 830, Atlanta, GA 30309",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 6
+            },
+            {
+                "keyword": "health",
+                "count": 6
+            },
+            {
+                "keyword": "messages",
+                "count": 5
+            },
+            {
+                "keyword": "review",
+                "count": 5
+            },
+            {
+                "keyword": "PCP",
+                "count": 5
+            },
+            {
+                "keyword": "lab",
+                "count": 4
+            },
+            {
+                "keyword": "patient portal",
+                "count": 3
+            },
+            {
+                "keyword": "PA",
+                "count": 3
+            },
+            {
+                "keyword": "test",
+                "count": 3
+            },
+            {
+                "keyword": "understand",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Midtown/data=!4m7!3m6!1s0x88f505f37c0088c3:0x2a375273a618463!8m2!3d33.7850497!4d-84.3882691!16s%2Fg%2F11fmlg59yz!19sChIJw4gAfPMF9YgRY4RhOid1owI?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4UNxgN2e9YgRXaU25B1rLvE",
+        "name": "Georgia Clinic Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 71,
+        "website": "http://www.gaclinicpc.com/",
+        "owner": {
+            "id": null,
+            "name": "Georgia Clinic Primary Care (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMpK-VtTw42rldBa0CL-RxVtOziXji03j3w7xz=w408-h725-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 3,
+        "workday_timing": "9 AM-6 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 990-1831",
+        "address": "Georgia Clinic Primary Care, 11912 Jones Bridge Rd, Alpharetta, GA 30005",
+        "review_keywords": [
+            {
+                "keyword": "insurance",
+                "count": 7
+            },
+            {
+                "keyword": "room",
+                "count": 6
+            },
+            {
+                "keyword": "pay",
+                "count": 6
+            },
+            {
+                "keyword": "professional",
+                "count": 6
+            },
+            {
+                "keyword": "front desk",
+                "count": 5
+            },
+            {
+                "keyword": "nurse",
+                "count": 5
+            },
+            {
+                "keyword": "feel",
+                "count": 5
+            },
+            {
+                "keyword": "lady",
+                "count": 4
+            },
+            {
+                "keyword": "walked",
+                "count": 4
+            },
+            {
+                "keyword": "well being",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Georgia+Clinic+Primary+Care/data=!4m7!3m6!1s0x88f59edd807143e1:0xf12e6b1de436a55d!8m2!3d34.069688!4d-84.2069007!16s%2Fg%2F11b66hy8qg!19sChIJ4UNxgN2e9YgRXaU25B1rLvE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJaxgtgJz49IgRyV_ERJL8ZaE",
+        "name": "Southeastern Primary Care Specialists - Stockbridge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 70,
+        "website": "https://www.southeastmedicalgroup.com/locations/stockbridge",
+        "owner": {
+            "id": "113200754769232534157",
+            "name": "Southeastern Primary Care Specialists - Stockbridge (Owner)",
+            "link": "https://www.google.com/maps/contrib/113200754769232534157"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCxZWFUr3PQguNM9sJMrFzdOqWvurj6pLeUgac=w408-h272-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Doctor",
+            "Internist",
+            "Medical group"
+        ],
+        "rating": 3.6,
+        "workday_timing": "7:30 AM-4 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 716-7999",
+        "address": "Southeastern Primary Care Specialists - Stockbridge, 1035 Southcrest Dr 200 200, Stockbridge, GA 30281",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 12
+            },
+            {
+                "keyword": "message",
+                "count": 5
+            },
+            {
+                "keyword": "nurse",
+                "count": 4
+            },
+            {
+                "keyword": "dr",
+                "count": 4
+            },
+            {
+                "keyword": "ramani durvasula",
+                "count": 3
+            },
+            {
+                "keyword": "test",
+                "count": 3
+            },
+            {
+                "keyword": "professional",
+                "count": 3
+            },
+            {
+                "keyword": "health",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Southeastern+Primary+Care+Specialists+-+Stockbridge/data=!4m7!3m6!1s0x88f4f89c802d186b:0xa165fc9244c45fc9!8m2!3d33.5436495!4d-84.2752218!16s%2Fg%2F1v1vf0jq!19sChIJaxgtgJz49IgRyV_ERJL8ZaE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJk40RTYkD9YgRtEC3uFx1hKQ",
+        "name": "Grady Walk-In Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 66,
+        "website": "https://www.gradyhealth.org/locations/walk-in-center/",
+        "owner": {
+            "id": "109294645099916917000",
+            "name": "Grady Walk-In Center (Owner)",
+            "link": "https://www.google.com/maps/contrib/109294645099916917000"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOH9265U1wCHuiRyG02rUweR26Thq7KFCwyUIxc=w596-h240-k-no",
+        "main_category": "Walk-in clinic",
+        "categories": [
+            "Walk-in clinic"
+        ],
+        "rating": 3.2,
+        "workday_timing": "7 AM-6 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 616-6661",
+        "address": "Grady Walk-In Center, 56 Jesse Hill Jr Dr SE, Atlanta, GA 30303",
+        "review_keywords": [
+            {
+                "keyword": "room",
+                "count": 6
+            },
+            {
+                "keyword": "nurse",
+                "count": 6
+            },
+            {
+                "keyword": "name",
+                "count": 4
+            },
+            {
+                "keyword": "lady",
+                "count": 3
+            },
+            {
+                "keyword": "feeling",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Grady+Walk-In+Center/data=!4m7!3m6!1s0x88f503894d118d93:0xa484755cb8b740b4!8m2!3d33.7527031!4d-84.3811976!16s%2Fg%2F12jsydkvf!19sChIJk40RTYkD9YgRtEC3uFx1hKQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQAAALlCYIgRuGx8G7j6eDA",
+        "name": "Primary Healthcare Centers",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": "https://www.primaryhealthcarecenters.org/ft-oglethorpe-healthcare-center",
+        "owner": {
+            "id": "117391849661941805510",
+            "name": "Primary Healthcare Centers (Owner)",
+            "link": "https://www.google.com/maps/contrib/117391849661941805510"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_W8VT4lzRVWpFv9EplqKEcucyF3cD2u99aEfM=w408-h306-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Community health centre",
+            "Counselor",
+            "Laboratory",
+            "Nutritionist"
+        ],
+        "rating": 3.3,
+        "workday_timing": "7:30 AM-6 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(706) 866-5520",
+        "address": "Primary Healthcare Centers, 2009 Old Lafayette Rd, Fort Oglethorpe, GA 30742",
+        "review_keywords": [
+            {
+                "keyword": "prescription",
+                "count": 11
+            },
+            {
+                "keyword": "call",
+                "count": 8
+            },
+            {
+                "keyword": "insurance",
+                "count": 5
+            },
+            {
+                "keyword": "nurse",
+                "count": 4
+            },
+            {
+                "keyword": "dr. mccoy",
+                "count": 3
+            },
+            {
+                "keyword": "30 minutes",
+                "count": 3
+            },
+            {
+                "keyword": "desk",
+                "count": 3
+            },
+            {
+                "keyword": "health care",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Primary+Healthcare+Centers/data=!4m7!3m6!1s0x886042b900000001:0x3078fab81b7c6cb8!8m2!3d34.9502446!4d-85.2598368!16s%2Fg%2F11gjhfdgtk!19sChIJAQAAALlCYIgRuGx8G7j6eDA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJFzuldqcd9YgRdNk5r79aFDY",
+        "name": "Sol Direct Primary Care-Michelle Cooke MD",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": "http://www.sol-dpc.org/",
+        "owner": {
+            "id": "118130869783583150553",
+            "name": "Sol Direct Primary Care-Michelle Cooke MD (Owner)",
+            "link": "https://www.google.com/maps/contrib/118130869783583150553"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N1RSdd9rfXFjqxHVbjNYaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=320.0043&pitch=0&thumbfov=100",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician"
+        ],
+        "rating": 4.9,
+        "workday_timing": "9 AM-5 PM",
+        "closed_on": [
+            "Monday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(470) 839-3129",
+        "address": "Sol Direct Primary Care-Michelle Cooke MD, 2193 Cascade Rd, Atlanta, GA 30311",
+        "review_keywords": [
+            {
+                "keyword": "healthcare",
+                "count": 7
+            },
+            {
+                "keyword": "concerns",
+                "count": 4
+            },
+            {
+                "keyword": "compassionate",
+                "count": 4
+            },
+            {
+                "keyword": "lifestyle",
+                "count": 3
+            },
+            {
+                "keyword": "fee",
+                "count": 3
+            },
+            {
+                "keyword": "office",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sol+Direct+Primary+Care-Michelle+Cooke+MD/data=!4m7!3m6!1s0x88f51da776a53b17:0x36145abfaf39d974!8m2!3d33.7224412!4d-84.460131!16s%2Fg%2F11ty4hfgh3!19sChIJFzuldqcd9YgRdNk5r79aFDY?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJlTm7hWm-9YgRm25miR2pmK8",
+        "name": "Dr. Riaz A. Syed, MD",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": "http://www.pccofga.com/",
+        "owner": {
+            "id": "110807946508415565662",
+            "name": "Dr. Riaz A. Syed, MD (Owner)",
+            "link": "https://www.google.com/maps/contrib/110807946508415565662"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6wTnXJ1Tr2SLJtrRkNAc2g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.93248&pitch=0&thumbfov=100",
+        "main_category": "Geriatrician",
+        "categories": [
+            "Geriatrician"
+        ],
+        "rating": 3.1,
+        "workday_timing": "8:30 AM-5:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 377-0900",
+        "address": "Dr. Riaz A. Syed, MD, 870 Collins Hill Rd, Lawrenceville, GA 30043",
+        "review_keywords": [
+            {
+                "keyword": "prescription",
+                "count": 9
+            },
+            {
+                "keyword": "office",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dr.+Riaz+A.+Syed,+MD/data=!4m7!3m6!1s0x88f5be6985bb3995:0xaf98a91d89666e9b!8m2!3d33.9788517!4d-83.9977592!16s%2Fg%2F1tl_00ks!19sChIJlTm7hWm-9YgRm25miR2pmK8?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJIY2TC_gE9YgREEKazGcvHxk",
+        "name": "Piedmont Physicians at Atlantic Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 43,
+        "website": "https://www.piedmont.org/locations/location-details%3Fpractice%3D6%26utm_source%3Ddirectorylisting%26utm_medium%3Dseo%26utm_campaign%3D10134%26y_source%3D1_MTI5OTY4MjctNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+        "owner": {
+            "id": "101027761665798356545",
+            "name": "Piedmont Physicians at Atlantic Station (Owner)",
+            "link": "https://www.google.com/maps/contrib/101027761665798356545"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bLpLkpTC7qwccDzZpBLNqQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=207.00482&pitch=0&thumbfov=100",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 3.7,
+        "workday_timing": "8:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 367-3000",
+        "address": "Piedmont Physicians at Atlantic Station, 232 19th St NW Suite 7220, Atlanta, GA 30363",
+        "review_keywords": [
+            {
+                "keyword": "nurse",
+                "count": 8
+            },
+            {
+                "keyword": "good luck",
+                "count": 3
+            },
+            {
+                "keyword": "office",
+                "count": 3
+            },
+            {
+                "keyword": "name",
+                "count": 3
+            },
+            {
+                "keyword": "feel",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Piedmont+Physicians+at+Atlantic+Station/data=!4m7!3m6!1s0x88f504f80b938d21:0x191f2f67cc9a4210!8m2!3d33.793186!4d-84.3955146!16s%2Fg%2F1tlqqtzq!19sChIJIY2TC_gE9YgREEKazGcvHxk?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJJwhXgx4F9YgRpYHc28XZEJU",
+        "name": "Family Health Care of Atlanta PC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "https://familyhealthcareofatlanta.com/",
+        "owner": {
+            "id": "115693676512371088526",
+            "name": "Family Health Care of Atlanta PC (Owner)",
+            "link": "https://www.google.com/maps/contrib/115693676512371088526"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOi1EApZHQV9zbbIbJjZSC1gLAbk8M3VC0JAjsn=w408-h272-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician",
+            "Medical spa"
+        ],
+        "rating": 4.5,
+        "workday_timing": "8:30 AM-6 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 355-2000",
+        "address": "Family Health Care of Atlanta PC, 1935 Howell Mill Rd NW, Atlanta, GA 30318",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 7
+            },
+            {
+                "keyword": "knowledge",
+                "count": 4
+            },
+            {
+                "keyword": "well-being",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Family+Health+Care+of+Atlanta+PC/data=!4m7!3m6!1s0x88f5051e83570827:0x9510d9c5dbdc81a5!8m2!3d33.8075735!4d-84.4123399!16s%2Fg%2F1tdqcdsh!19sChIJJwhXgx4F9YgRpYHc28XZEJU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJD66N19R09YgRahhJOjSGUFQ",
+        "name": "Peachtree Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": "https://peachtreeprimarycare.com/",
+        "owner": {
+            "id": "105601435204956434668",
+            "name": "Peachtree Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/105601435204956434668"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgj1M62GRjN88BhE5_8ok0NB09UEZU2JIo_aG-=w408-h415-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 3.6,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 676-6838",
+        "address": "Peachtree Primary Care, 1570 Old Alabama Rd, Roswell, GA 30076",
+        "review_keywords": [
+            {
+                "keyword": "questions",
+                "count": 5
+            },
+            {
+                "keyword": "results",
+                "count": 3
+            },
+            {
+                "keyword": "health",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Peachtree+Primary+Care/data=!4m7!3m6!1s0x88f574d4d78dae0f:0x545086343a49186a!8m2!3d34.0227243!4d-84.3148562!16s%2Fg%2F113gg2q6t!19sChIJD66N19R09YgRahhJOjSGUFQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJoWQT85Th84gR56kEMFAXWDI",
+        "name": "First Choice Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "http://www.firstchoiceprimarycare.org/",
+        "owner": {
+            "id": "109045598575183489355",
+            "name": "First Choice Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/109045598575183489355"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNeADv2UVRRIGVabJyUqNtPnmauTSxRwuTvEJvB=w408-h240-k-no-pi0-ya4.7883196-ro-0-fo100",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Community health centre",
+            "Family practice physician",
+            "Non-profit organization"
+        ],
+        "rating": 3,
+        "workday_timing": "7 AM-5:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(478) 225-9449",
+        "address": "First Choice Primary Care, 207 Green St, Warner Robins, GA 31093",
+        "review_keywords": [
+            {
+                "keyword": "pay",
+                "count": 6
+            },
+            {
+                "keyword": "phone",
+                "count": 4
+            },
+            {
+                "keyword": "insurance",
+                "count": 4
+            },
+            {
+                "keyword": "front desk",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/First+Choice+Primary+Care/data=!4m7!3m6!1s0x88f3e194f31364a1:0x325817503004a9e7!8m2!3d32.6278597!4d-83.6158945!16s%2Fg%2F1q69vf8dl!19sChIJoWQT85Th84gR56kEMFAXWDI?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJy9YLuhSbWIgRyv2vfoaYhQQ",
+        "name": "Northeast Georgia Physicians Group Lavonia Clinic",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": "https://www.ngpg.org/family-medicine/lavonia",
+        "owner": {
+            "id": "103383849081745006768",
+            "name": "Northeast Georgia Physicians Group Lavonia Clinic (Owner)",
+            "link": "https://www.google.com/maps/contrib/103383849081745006768"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJC_M7epeuK9eh86scvn2embeKhU9KBQMitGyh=w426-h240-k-no",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician",
+            "Medical clinic"
+        ],
+        "rating": 3.3,
+        "workday_timing": "8 AM-6 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(706) 356-1072",
+        "address": "Northeast Georgia Physicians Group Lavonia Clinic, 12192 Augusta Rd, Lavonia, GA 30553",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 4
+            },
+            {
+                "keyword": "phones",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Northeast+Georgia+Physicians+Group+Lavonia+Clinic/data=!4m7!3m6!1s0x88589b14ba0bd6cb:0x48598867eaffdca!8m2!3d34.4284395!4d-83.1057708!16s%2Fg%2F11g65dh1w3!19sChIJy9YLuhSbWIgRyv2vfoaYhQQ?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJxcuhuL0K9YgRerVhdG6p-JU",
+        "name": "North Fulton Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://weence.com/medical/doctors/alpharetta/north-fulton-primary-care/",
+        "owner": {
+            "id": "110085535151071183160",
+            "name": "North Fulton Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/110085535151071183160"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6fhk7db-vi_eAvS9kwpsqAzK-dQyzLfie1gr8=w408-h306-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician",
+            "General practitioner",
+            "Internist"
+        ],
+        "rating": 2.9,
+        "workday_timing": "7:30 AM-4:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 650-8980",
+        "address": "North Fulton Primary Care, 2570 Holcomb Bridge Rd, Alpharetta, GA 30022",
+        "review_keywords": [
+            {
+                "keyword": "nurse",
+                "count": 4
+            },
+            {
+                "keyword": "prescriptions",
+                "count": 4
+            },
+            {
+                "keyword": "office",
+                "count": 4
+            },
+            {
+                "keyword": "money",
+                "count": 4
+            },
+            {
+                "keyword": "insurance",
+                "count": 3
+            },
+            {
+                "keyword": "questions",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Fulton+Primary+Care/data=!4m7!3m6!1s0x88f50abdb8a1cbc5:0x95f8a96e7461b57a!8m2!3d34.0008224!4d-84.2847835!16s%2Fg%2F1ts3m11h!19sChIJxcuhuL0K9YgRerVhdG6p-JU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJE5GOP5QO9YgRizpYkAvtLqU",
+        "name": "The Primary Care Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "http://www.primarycarecenter.com/",
+        "owner": {
+            "id": "106555692297157231418",
+            "name": "The Primary Care Center (Owner)",
+            "link": "https://www.google.com/maps/contrib/106555692297157231418"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOPozY9KgUVLX8oHGfJxPMAC4WdYPMvtXTNJxy=w427-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician",
+            "Internist",
+            "Urgent care center"
+        ],
+        "rating": 3.4,
+        "workday_timing": "9 AM-6 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 941-1160",
+        "address": "The Primary Care Center, 5975 Roswell Rd NE Suite #A 105, Atlanta, GA 30328",
+        "review_keywords": [
+            {
+                "keyword": "money",
+                "count": 3
+            },
+            {
+                "keyword": "professional",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/The+Primary+Care+Center/data=!4m7!3m6!1s0x88f50e943f8e9113:0xa52eed0b90583a8b!8m2!3d33.9185038!4d-84.3785915!16s%2Fg%2F1x6q2lhn!19sChIJE5GOP5QO9YgRizpYkAvtLqU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJv7uAILEO9YgRse7eWRTQM7Y",
+        "name": "OMNI Primary Care, PC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://omniprimarycare.com/",
+        "owner": {
+            "id": null,
+            "name": "OMNI Primary Care, PC (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=p8UwsnuqawEyuKJYexVggA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=278.59973&pitch=0&thumbfov=100",
+        "main_category": "Medical office",
+        "categories": [
+            "Medical office",
+            "Medical clinic",
+            "Women's health clinic"
+        ],
+        "rating": 2.8,
+        "workday_timing": "8 AM-4 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 256-0780",
+        "address": "OMNI Primary Care, PC, 750 Hammond Dr bldg 2 suite 100, Sandy Springs, GA 30328",
+        "review_keywords": [
+            {
+                "keyword": "portal",
+                "count": 3
+            },
+            {
+                "keyword": "blood",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/OMNI+Primary+Care,+PC/data=!4m7!3m6!1s0x88f50eb12080bbbf:0xb633d01459deeeb1!8m2!3d33.9195137!4d-84.3617095!16s%2Fg%2F11c70br26b!19sChIJv7uAILEO9YgRse7eWRTQM7Y?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJl-7vIhPr9YgRhc4qXiW_qIU",
+        "name": "NGPG Family Sports Medicine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "http://www.ngpg.org/",
+        "owner": {
+            "id": "116833023083133390844",
+            "name": "NGPG Family Sports Medicine (Owner)",
+            "link": "https://www.google.com/maps/contrib/116833023083133390844"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrt5_AofMVOLzuBkxzCJ1cBR97vVsnoa-Mwny_=w500-h240-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 3,
+        "workday_timing": "8 AM-5 AM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 848-6190",
+        "address": "NGPG Family Sports Medicine, 3575 Braselton Hwy, Dacula, GA 30019",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 4
+            },
+            {
+                "keyword": "cost",
+                "count": 4
+            },
+            {
+                "keyword": "front desk",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/NGPG+Family+Sports+Medicine/data=!4m7!3m6!1s0x88f5eb1322efee97:0x85a8bf255e2ace85!8m2!3d34.0687411!4d-83.9083011!16s%2Fg%2F1vzg327m!19sChIJl-7vIhPr9YgRhc4qXiW_qIU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJw-PpT4oXX4gRIHTK5eTVUVw",
+        "name": "North Georgia Family Medicine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "http://www.northgeorgiafamilymedicine.com/",
+        "owner": {
+            "id": "100464544006071756771",
+            "name": "North Georgia Family Medicine (Owner)",
+            "link": "https://www.google.com/maps/contrib/100464544006071756771"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7YvCCZgJWFeRxIFBliE-sg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=115.41255&pitch=0&thumbfov=100",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 3.6,
+        "workday_timing": "7 AM-6 PM",
+        "closed_on": [
+            "Sunday"
+        ],
+        "phone": "(706) 745-9417",
+        "address": "North Georgia Family Medicine, 346 Deep South Farm Rd Suite A, Blairsville, GA 30512",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/North+Georgia+Family+Medicine/data=!4m7!3m6!1s0x885f178a4fe9e3c3:0x5c51d5e4e5ca7420!8m2!3d34.8881683!4d-83.962593!16s%2Fg%2F1vxf_x4r!19sChIJw-PpT4oXX4gRIHTK5eTVUVw?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6p6K-uk9YgRvQ_N5o14VPY",
+        "name": "Peachstate Family Clinic, LLC",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": "https://www.peachstatefamilyclinic.com/",
+        "owner": {
+            "id": null,
+            "name": "Peachstate Family Clinic, LLC (Owner)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPDhxcKvPteWBLbmauaxd3NwAqZJA6tZ98gQPDT=w408-h321-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 4.4,
+        "workday_timing": "9 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 583-8888",
+        "address": "Peachstate Family Clinic, LLC, 4319 Lawrenceville Hwy NW, Lilburn, GA 30047",
+        "review_keywords": [
+            {
+                "keyword": "health",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Peachstate+Family+Clinic,+LLC/data=!4m7!3m6!1s0x88f5a4eb2b7aaaab:0xf654788de6cd0fbd!8m2!3d33.9016591!4d-84.1252542!16s%2Fg%2F11f4vfrdc_!19sChIJq6p6K-uk9YgRvQ_N5o14VPY?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____5iIX4gRpv2NRA93mVY",
+        "name": "North Georgia Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "http://northgeorgiaprimary.com/",
+        "owner": {
+            "id": "107439363131772615281",
+            "name": "North Georgia Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/107439363131772615281"
+        },
+        "featured_image": null,
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Doctor",
+            "Internist"
+        ],
+        "rating": 4,
+        "workday_timing": "8 AM-6:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(706) 253-3842",
+        "address": "North Georgia Primary Care, 14 Sammy McGhee Blvd #204, Jasper, GA 30143",
+        "review_keywords": [
+            {
+                "keyword": "nurse practitioner",
+                "count": 6
+            },
+            {
+                "keyword": "professional",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/North+Georgia+Primary+Care/data=!4m7!3m6!1s0x885f8898ffffffff:0x5699770f448dfda6!8m2!3d34.464878!4d-84.4519042!16s%2Fg%2F11h9qfgqmv!19sChIJ_____5iIX4gRpv2NRA93mVY?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJpd-Les217YgRS3KRFYAPxBE",
+        "name": "Primary Care Of Southwest Georgia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "http://www.pcswga.org/",
+        "owner": {
+            "id": null,
+            "name": "Primary Care Of Southwest Georgia (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ki1P2sTHkD0joKvOyqvh5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=199.50945&pitch=0&thumbfov=100",
+        "main_category": "Pharmacy",
+        "categories": [
+            "Pharmacy",
+            "Community health centre",
+            "Family practice physician"
+        ],
+        "rating": 3.9,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(229) 227-5510",
+        "address": "Primary Care Of Southwest Georgia, 454 Smith Ave, Thomasville, GA 31792",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Primary+Care+Of+Southwest+Georgia/data=!4m7!3m6!1s0x88edb5cd7a8bdfa5:0x11c40f801591724b!8m2!3d30.8353484!4d-83.9725461!16s%2Fg%2F1tg_mgf7!19sChIJpd-Les217YgRS3KRFYAPxBE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ5IO28Lp9YgRVKygbCPArXk",
+        "name": "Northeast Georgia Physicians Group Auburn Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://www.ngpg.org/family-medicine/auburn",
+        "owner": {
+            "id": "111437187222343126407",
+            "name": "Northeast Georgia Physicians Group Auburn Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/111437187222343126407"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoSujoPvj-u17vpj_ELE0YzrGevI-IQy2dQWp2=w426-h240-k-no",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician",
+            "Medical clinic"
+        ],
+        "rating": 3.8,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 848-9320",
+        "address": "Northeast Georgia Physicians Group Auburn Primary Care, 12 7th St, Auburn, GA 30011",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Northeast+Georgia+Physicians+Group+Auburn+Primary+Care/data=!4m7!3m6!1s0x88f5e9c2db0e9243:0x79adc0236ca0ac54!8m2!3d34.0104526!4d-83.8239957!16s%2Fg%2F1t_khcq4!19sChIJQ5IO28Lp9YgRVKygbCPArXk?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJBcjQB6oF9YgR21a5FkjLaaU",
+        "name": "Bich Nguyen, MD",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://doctors.piedmont.org/provider/Bich+N+Nguyen/388073?utm_source=directorylisting&utm_medium=seo&utm_campaign=10134&y_source=1_MTI5OTc1NDYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "owner": {
+            "id": "116444270796409987168",
+            "name": "Bich Nguyen, MD (Owner)",
+            "link": "https://www.google.com/maps/contrib/116444270796409987168"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=L3R9_tSQ2XMy_rieLuLR-w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=160.8226&pitch=0&thumbfov=100",
+        "main_category": "Family practice physician",
+        "categories": [
+            "Family practice physician"
+        ],
+        "rating": 3.6,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 350-1122",
+        "address": "Bich Nguyen, MD, 105 Collier Rd NW # 2000, Atlanta, GA 30309",
+        "review_keywords": [
+            {
+                "keyword": "messages",
+                "count": 4
+            },
+            {
+                "keyword": "medications",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bich+Nguyen,+MD/data=!4m7!3m6!1s0x88f505aa07d0c805:0xa569cb4816b956db!8m2!3d33.8082694!4d-84.3953989!16s%2Fg%2F11f1zlrwjm!19sChIJBcjQB6oF9YgR21a5FkjLaaU?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJa2ZZfKyj9YgRsV8PmfIynSE",
+        "name": "North Atlanta Primary Care Duluth",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://www.southeastmedicalgroup.com/locations/duluth",
+        "owner": {
+            "id": "113665504743135024952",
+            "name": "North Atlanta Primary Care Duluth (Owner)",
+            "link": "https://www.google.com/maps/contrib/113665504743135024952"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPnlkghnHtxrlxFkeJO9GM15r93Rn69LfAkb1qp=w408-h265-k-no",
+        "main_category": "Internist",
+        "categories": [
+            "Internist",
+            "Medical office"
+        ],
+        "rating": 4.3,
+        "workday_timing": "7:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 360-1020",
+        "address": "North Atlanta Primary Care Duluth, 3790 Pleasant Hill Rd Suite 170 Suite 170, Duluth, GA 30096",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/North+Atlanta+Primary+Care+Duluth/data=!4m7!3m6!1s0x88f5a3ac7c59666b:0x219d32f2990f5fb1!8m2!3d34.0001255!4d-84.1598667!16s%2Fg%2F11q7f4jfbd!19sChIJa2ZZfKyj9YgRsV8PmfIynSE?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJaXRQjw4n9YgRGyKAztCguYA",
+        "name": "West Atlanta Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "http://westatlantaprimarycare.com/",
+        "owner": {
+            "id": "109990750353748813629",
+            "name": "West Atlanta Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/109990750353748813629"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJBYTf2Fre_rVeZ1NI_E-0JtW2jafpL-7n-Bi2=w408-h544-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician"
+        ],
+        "rating": 4.8,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 401-4597",
+        "address": "West Atlanta Primary Care, 4904 Timber Ridge Dr Ste 102, Douglasville, GA 30135",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 4
+            },
+            {
+                "keyword": "desk",
+                "count": 3
+            },
+            {
+                "keyword": "nurse",
+                "count": 3
+            },
+            {
+                "keyword": "questions",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/West+Atlanta+Primary+Care/data=!4m7!3m6!1s0x88f5270e8f507469:0x80b9a0d0ce80221b!8m2!3d33.7295861!4d-84.7359646!16s%2Fg%2F11t1803g__!19sChIJaXRQjw4n9YgRGyKAztCguYA?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJlTm7hWm-9YgR9IkpsyAt4Gk",
+        "name": "Primary Care Center of Georgia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "http://www.pccofga.com/",
+        "owner": {
+            "id": null,
+            "name": "Primary Care Center of Georgia (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=psixSW96Twt_vcj-yAM8eQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.27351&pitch=0&thumbfov=100",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Doctor",
+            "Hospital",
+            "Internist",
+            "Medical group",
+            "Physician referral service"
+        ],
+        "rating": 3.2,
+        "workday_timing": "8:30 AM-5:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(678) 377-0900",
+        "address": "Primary Care Center of Georgia, 870 Collins Hill Rd, Lawrenceville, GA 30043",
+        "review_keywords": [
+            {
+                "keyword": "professional",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Primary+Care+Center+of+Georgia/data=!4m7!3m6!1s0x88f5be6985bb3995:0x69e02d20b32989f4!8m2!3d33.978882!4d-83.9977774!16s%2Fg%2F1tjz46kh!19sChIJlTm7hWm-9YgR9IkpsyAt4Gk?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJw8L6_bAJ9YgRhihz-A3z-Jg",
+        "name": "Primary Care of Brookhaven",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.northside.com/locations/primary-care-of-brookhaven",
+        "owner": {
+            "id": "108826964265100481914",
+            "name": "Primary Care of Brookhaven (Owner)",
+            "link": "https://www.google.com/maps/contrib/108826964265100481914"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkuwwaNWyGg720GpDaNw80gqguR8DTJXMHMiKP=w426-h240-k-no",
+        "main_category": "General practitioner",
+        "categories": [
+            "General practitioner",
+            "Doctor",
+            "Family practice physician"
+        ],
+        "rating": 4.1,
+        "workday_timing": "8 AM-4 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(404) 365-6500",
+        "address": "Primary Care of Brookhaven, 4062 Peachtree Rd NE suite c, Brookhaven, GA 30319",
+        "review_keywords": [
+            {
+                "keyword": "office",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Primary+Care+of+Brookhaven/data=!4m7!3m6!1s0x88f509b0fdfac2c3:0x98f8f30df8732886!8m2!3d33.8623809!4d-84.3390426!16s%2Fg%2F11h3l5j_sr!19sChIJw8L6_bAJ9YgRhihz-A3z-Jg?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJP7Pn8prX5IgR6exx2LkeR7Y",
+        "name": "Southeast Georgia Physician Associates-Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://www.sghs.org/locations/primary-care-brunswick-3222-shrine-rd/",
+        "owner": {
+            "id": "105495417969974962559",
+            "name": "Southeast Georgia Physician Associates-Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/105495417969974962559"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPaxjrUYQzQcHEPJgIyO7Ix8bqMTYv_6-nBR7x4=w426-h240-k-no",
+        "main_category": "Medical group",
+        "categories": [
+            "Medical group",
+            "Family practice physician"
+        ],
+        "rating": 3.2,
+        "workday_timing": "8:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(912) 466-5480",
+        "address": "Southeast Georgia Physician Associates-Primary Care, 3222 Shrine Rd, Brunswick, GA 31520",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Southeast+Georgia+Physician+Associates-Primary+Care/data=!4m7!3m6!1s0x88e4d79af2e7b33f:0xb6471eb9d871ece9!8m2!3d31.1773262!4d-81.4812698!16s%2Fg%2F1th6fnht!19sChIJP7Pn8prX5IgR6exx2LkeR7Y?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJrwfuO_n29YgRIHRrx13GG_k",
+        "name": "Primary Care Clinics Of Georgia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "http://www.pccog.net/",
+        "owner": {
+            "id": "103738638867973913942",
+            "name": "Primary Care Clinics Of Georgia (Owner)",
+            "link": "https://www.google.com/maps/contrib/103738638867973913942"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GOFooB33jFlTecluQfOovQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=297.29688&pitch=0&thumbfov=100",
+        "main_category": "Doctor",
+        "categories": [
+            "Doctor"
+        ],
+        "rating": 2.3,
+        "workday_timing": "8 AM-4:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 536-1004",
+        "address": "Primary Care Clinics Of Georgia, 1990 Limestone Cir Suite 100, Gainesville, GA 30501",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Primary+Care+Clinics+Of+Georgia/data=!4m7!3m6!1s0x88f5f6f93bee07af:0xf91bc65dc76b7420!8m2!3d34.321024!4d-83.803973!16s%2Fg%2F1tflsw94!19sChIJrwfuO_n29YgRIHRrx13GG_k?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJH67rG8759IgRjfl2I796XXM",
+        "name": "CenterWell Senior Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://www.centerwellprimarycare.com/en/atlanta/morrow.html%3Futm_medium%3Dbusinesslistings%26utm_campaign%3Dgmb_atlanta_online-listings_en_digital_23",
+        "owner": {
+            "id": "106560945613121796018",
+            "name": "CenterWell Senior Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/106560945613121796018"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMm_LrC684QvKpMKBwwHv0ygMcpQnMIhHshmAB0=w426-h240-k-no",
+        "main_category": "Geriatrician",
+        "categories": [
+            "Geriatrician",
+            "Doctor",
+            "General practitioner",
+            "Internist",
+            "Medical Center",
+            "Medical clinic",
+            "Medical group",
+            "Medical laboratory",
+            "Medical office",
+            "Nurse practitioner"
+        ],
+        "rating": 4.9,
+        "workday_timing": "8 AM-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 821-6442",
+        "address": "CenterWell Senior Primary Care, 1821 Mt Zion Rd, Morrow, GA 30260",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CenterWell+Senior+Primary+Care/data=!4m7!3m6!1s0x88f4f9ce1bebae1f:0x735d7abf2376f98d!8m2!3d33.5692944!4d-84.3318759!16s%2Fg%2F11rd8kly5q!19sChIJH67rG8759IgRjfl2I796XXM?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJLeUeBRkr9YgRzS5zH03isls",
+        "name": "West Georgia Family Medicine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://www.tanner.org/villa-rica-family-medicine",
+        "owner": {
+            "id": null,
+            "name": "West Georgia Family Medicine (Owner)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=cnl-6ATXboxwZ7Cd5Gbn_w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=118.51252&pitch=0&thumbfov=100",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic",
+            "Family practice physician",
+            "Obstetrician-gynecologist",
+            "Surgeon"
+        ],
+        "rating": 2.5,
+        "workday_timing": "8 AM-5:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(770) 459-4411",
+        "address": "West Georgia Family Medicine, 705 Dallas Hwy Ste 201, Villa Rica, GA 30180",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/West+Georgia+Family+Medicine/data=!4m7!3m6!1s0x88f52b19051ee52d:0x5bb2e24d1f732ecd!8m2!3d33.7444775!4d-84.9161058!16s%2Fg%2F1tdk1fg9!19sChIJLeUeBRkr9YgRzS5zH03isls?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJd90VY5cE5YgRDWF40Q4cBik",
+        "name": "Southeast Georgia Physician Associates-Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://www.sghs.org/locations/primary-care-st-marys-suite-2100/",
+        "owner": {
+            "id": "109529128620501621845",
+            "name": "Southeast Georgia Physician Associates-Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/109529128620501621845"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0ryggbhO4ZzlNjmPKQWDq5gzl-WyZ-nii5vo1=w426-h240-k-no",
+        "main_category": "Medical group",
+        "categories": [
+            "Medical group"
+        ],
+        "rating": 3.9,
+        "workday_timing": "8:30 AM-5 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(912) 882-6767",
+        "address": "Southeast Georgia Physician Associates-Primary Care, 2060 Dan Proctor Dr #2100, St Marys, GA 31558",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Southeast+Georgia+Physician+Associates-Primary+Care/data=!4m7!3m6!1s0x88e504976315dd77:0x29061c0ed178610d!8m2!3d30.7808252!4d-81.6145248!16s%2Fg%2F11c3w1bd_v!19sChIJd90VY5cE5YgRDWF40Q4cBik?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ8EZiXNiX4gR3G1HmRRylPM",
+        "name": "Georgia Highlands Medical Services- Dawsonville Family Health Center",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "http://www.ghms-inc.org/",
+        "owner": {
+            "id": "106177667694168691515",
+            "name": "Georgia Highlands Medical Services- Dawsonville Family Health Ctr (Owner)",
+            "link": "https://www.google.com/maps/contrib/106177667694168691515"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qkxeNXVZ8Kbh5qcUzzOQ5Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=87.66903&pitch=0&thumbfov=100",
+        "main_category": "Doctor",
+        "categories": [
+            "Doctor"
+        ],
+        "rating": 3.4,
+        "workday_timing": "8 AM-5:30 PM",
+        "closed_on": [
+            "Saturday",
+            "Sunday"
+        ],
+        "phone": "(706) 381-6125",
+        "address": "Georgia Highlands Medical Services- Dawsonville Family Health Ctr, 5959 Hwy 53 suite 100, Dawsonville, GA 30534",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Georgia+Highlands+Medical+Services-+Dawsonville+Family+Health+Center/data=!4m7!3m6!1s0x885f62738919c127:0xf394721499476ddc!8m2!3d34.3694158!4d-84.0413994!16s%2Fg%2F11fxcdbvj5!19sChIJJ8EZiXNiX4gR3G1HmRRylPM?authuser=0&hl=en&rclk=1"
+    },
+    {
+        "place_id": "ChIJLYyr6PED9YgR_ACE2ti5H7M",
+        "name": "Bridge Direct Primary Care",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://www.bridgedpc.com/",
+        "owner": {
+            "id": "101219243063133376155",
+            "name": "Bridge Direct Primary Care (Owner)",
+            "link": "https://www.google.com/maps/contrib/101219243063133376155"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0g0FnMqhDTbE-xbodrvmDfJKDNSdX97AfeblT=w408-h544-k-no",
+        "main_category": "Medical clinic",
+        "categories": [
+            "Medical clinic"
+        ],
+        "rating": 5,
+        "workday_timing": "8:30 AM-5 PM",
+        "closed_on": [
+            "Thursday",
+            "Saturday"
+        ],
+        "phone": "(678) 632-3059",
+        "address": "Bridge Direct Primary Care, 209B Swanton Way Suite 103, Decatur, GA 30030",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bridge+Direct+Primary+Care/data=!4m7!3m6!1s0x88f503f1e8ab8c2d:0xb31fb9d8da8400fc!8m2!3d33.7748318!4d-84.2998706!16s%2Fg%2F11n0hrm3z8!19sChIJLYyr6PED9YgR_ACE2ti5H7M?authuser=0&hl=en&rclk=1"
+    }
+]

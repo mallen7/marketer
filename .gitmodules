@@ -1,0 +1,3 @@
+[submodule "proj/emailscraper"]
+	path = proj/emailscraper
+	url = https://github.com/ionalexaai/emailscraper.git
