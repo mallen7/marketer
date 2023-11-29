@@ -1,0 +1,9 @@
+local_storage.json
+logs/main.log
+profiles.json
+build/
+cache/
+error_logs/
+.gitmodules/
+.trunk/
+processing/
