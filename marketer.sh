@@ -29,7 +29,7 @@ find "./proj/google-maps-scraper/output" -type f -name "*.csv" -not -path "./pro
 
 # Cut out the domain column and create new file
 echo "Performing ETL operations..."
-cut -d',' -f6 "./processing/latest-q/tmp_${fuid}.csv" >> "./processing/extracted-domains/dirty/gmaps-extracted-domains.csv"
+cut -d',' -f6 "./processing/latest-q/tmp_${fuid}.csv" >> ./processing/extracted-domains/dirty/gmaps-extracted-domains.csv
 # rm -f ./processing/latest-q/tmp_output.csv
 
 # Clean up domain data
