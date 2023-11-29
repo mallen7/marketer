@@ -110,4 +110,4 @@ yamllint==1.30.0
 yarl==1.9.3
 yaspin==2.4.0
 zstandard==0.22.0
-zstd==1.5.2.6
+zstd==1.5.4.0
