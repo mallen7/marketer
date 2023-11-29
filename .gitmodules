@@ -1,3 +1,6 @@
 [submodule "proj/emailscraper"]
 	path = proj/emailscraper
-	url = https://github.com/ionalexaai/emailscraper.git
+	url = https://github.com/mallen7/emailscraper.git
+[submodule "proj/google-maps-scraper"]
+	path = proj/google-maps-scraper
+	url = https://github.com/mallen7/google-maps-scraper.git
