@@ -50,3 +50,6 @@ python3 ./proj/emailscraper/main.py ./processing/extracted-domains/clean/gmaps-e
 # Emailing results
 # mail -s "Marketer; Google Maps/Email Scraper Results $current_date-$current_time" -a ./processing/extracted-domains/gmaps-extracted-domains-${fuid}.csv $email < /dev/null
 mutt -s "Marketer; Google Maps/Email Scraper Results $current_date-$current_time" -a "./processing/extracted-emails/gmaps-extracted-emails-${date_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" -- $email < /dev/null
+
+# Data Cleanup
+./custom/purge_files.sh ./processing 
