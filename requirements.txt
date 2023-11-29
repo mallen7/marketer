@@ -8,7 +8,7 @@ beautifulsoup4==4.11.1
 black==23.3.0
 blessed==1.20.0
 blinker==1.7.0
-botasaurus==3.0.2
+botasaurus
 bracex==2.3.post1
 Brotli==1.1.0
 casefy==0.1.7
