@@ -14,22 +14,22 @@ rand_num=$(printf "%04d" $random_number)
 rm -rf ./proj/google-maps-scraper/output/*
 
 # User prompts
-read -p "Enter Google Maps Scraper query: " query
-read -p "Enter email address to send output to: " email
+read -rp "Enter Google Maps Scraper query: " query
+read -rp "Enter email address to send output to: " email
 
 # Google Maps scraper
 echo "Running Google Maps Scraper..."
 cd proj/google-maps-scraper
-python3 ./main.py "$query"
+python3 ./main.py "${query}"
 cd ../..
 
 # Get latest Google Maps query output
 echo "Pulling scraper output..."
-find "./proj/google-maps-scraper/output" -type f -name "*.csv" -not -path "./proj/google-maps-scraper/output/all/*" -print0 | xargs -0 ls -t | head -n 1 | xargs -I '{}' cp -f '{}' "./processing/latest-q/tmp_${fuid}.csv"
+find "./proj/google-maps-scraper/output" -type f -name "*.csv" -not -path "./proj/google-maps-scraper/output/all/*" -print0 | xargs -0 ls -t | head -n 1 | xargs -I '{}' cp -fr '{}' "./processing/latest-q/tmp_${fuid}.csv"
 
 # Cut out the domain column and create new file
 echo "Performing ETL operations..."
-cut -d',' -f6 ./processing/latest-q/tmp_${fuid}.csv >> ./processing/extracted-domains/dirty/gmaps-extracted-domains.csv
+cut -d',' -f6 "./processing/latest-q/tmp_${fuid}.csv" >> "./processing/extracted-domains/dirty/gmaps-extracted-domains.csv"
 # rm -f ./processing/latest-q/tmp_output.csv
 
 # Clean up domain data
@@ -48,8 +48,8 @@ echo "Running email crawler..."
 python3 ./proj/emailscraper/main.py ./processing/extracted-domains/clean/gmaps-extracted-domains.txt
 
 # Emailing results
-mail -s "Marketer; Google Maps/Email Scraper Results $current_date-$current_time" -a ./processing/extracted-domains/gmaps-extracted-domains-${fuid}.csv $email < /dev/null
-# mutt -s "Marketer; Google Maps/Email Scraper Results $current_date-$current_time" -a "./processing/extracted-emails/gmaps-extracted-emails-${date_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" -- $email < /dev/null
+mail -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "./results/Results_${date_string}_${time_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" "${email}" < /dev/null
+# mutt -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "./processing/extracted-emails/gmaps-extracted-emails-${date_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" -- $email < /dev/null
 
 # Data Cleanup
 ./custom/purge_files.sh ./processing 
