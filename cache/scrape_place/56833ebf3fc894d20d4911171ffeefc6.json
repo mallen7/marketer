@@ -1,0 +1,139 @@
+{
+    "place_id": "ChIJG9_ns4qtWIgRTMnwwBu3YCM",
+    "name": "Shape Innovation Inc.",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.shapeinnovation.com/",
+    "owner": {
+        "id": "105096654714329889169",
+        "name": "Shape Innovation Inc. (Owner)",
+        "link": "https://www.google.com/maps/contrib/105096654714329889169"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPij2dSy8acdDygeKuxXs_dcDzCAUsL36feuPOq=w408-h306-k-no",
+    "main_category": "Plastic fabrication company",
+    "categories": [
+        "Plastic fabrication company"
+    ],
+    "rating": null,
+    "workday_timing": "8 AM-4:30 PM",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(404) 219-2597",
+    "address": "Shape Innovation Inc., 723 Industrial Blvd, Baldwin, GA 30511",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Shape+Innovation+Inc./data=!4m7!3m6!1s0x8858ad8ab3e7df1b:0x2360b71bc0f0c94c!8m2!3d34.4911329!4d-83.549615!16s%2Fg%2F11fj45_kw4!19sChIJG9_ns4qtWIgRTMnwwBu3YCM?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 4:30 PM",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJG9_ns4qtWIgRTMnwwBu3YCM&q=Shape+Innovation+Inc.&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 34.4911329,
+        "longitude": -83.549615
+    },
+    "plus_code": "FFR2+F5 Baldwin, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "723 Industrial Blvd",
+        "city": "Baldwin",
+        "postal_code": "30511",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "2549238718920706380",
+    "data_id": "0x8858ad8ab3e7df1b:0x2360b71bc0f0c94c",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPij2dSy8acdDygeKuxXs_dcDzCAUsL36feuPOq=w397-h298-k-no"
+        },
+        {
+            "about": "Plastic",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMIQU9zcCaPO3qBXxYaHg0xVhRsOvZAcsuTeMUq=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP4eSicUloAtOXEUYyBYyxX0qXjXiFFhU3UatRr=w237-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y6_-atY2DI6EuUEfgDlHRg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=280.77435&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 AM-4:30 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 AM-4:30 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 AM-4:30 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 AM-4:30 PM"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 AM-4:30 PM"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

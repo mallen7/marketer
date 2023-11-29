@@ -1,0 +1,206 @@
+{
+    "place_id": "ChIJbX2oh-oJ9ogRAP3EXm0OD9o",
+    "name": "FF Inc",
+    "description": null,
+    "reviews": 6,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "FF Inc (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4spYvykEOJ-3LE6XJCSe7Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=351.2097&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer"
+    ],
+    "rating": 4,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": null,
+    "address": "FF Inc, 82 Galilee Church Rd, Jefferson, GA 30549",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/FF+Inc/data=!4m7!3m6!1s0x88f609ea87a87d6d:0xda0f0e6d5ec4fd00!8m2!3d34.0957641!4d-83.5733795!16s%2Fg%2F1tj58m9s!19sChIJbX2oh-oJ9ogRAP3EXm0OD9o?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 3
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJbX2oh-oJ9ogRAP3EXm0OD9o&q=FF+Inc&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 34.0957641,
+        "longitude": -83.5733795
+    },
+    "plus_code": "3CWG+8J Jefferson, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "82 Galilee Church Rd",
+        "city": "Jefferson",
+        "postal_code": "30549",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "15712793487823142144",
+    "data_id": "0x88f609ea87a87d6d:0xda0f0e6d5ec4fd00",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4spYvykEOJ-3LE6XJCSe7Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=351.2097&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4spYvykEOJ-3LE6XJCSe7Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=351.2097&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "Awesome group of people,  family oriented business",
+            "reviewer_name": "Shannon Lewallen",
+            "rating": 4,
+            "review_text": "Awesome group of people,  family oriented business",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-16T14:30:59.479000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115561549736769668201/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLkdWEjPJz9uiEFJqu9o_DrP6uCiTZOhxz5fA4NK1bz=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Got there 12 hours early for my appointment. (My mistake) Was able to park in a door since it wasn't busy. Had me loaded before sunrise. ",
+            "reviewer_name": "tony wnek",
+            "rating": 5,
+            "review_text": "Got there 12 hours early for my appointment. (My mistake) Was able to park in a door since it wasn't busy. Had me loaded before sunrise. ",
+            "published_at": "a year ago",
+            "published_at_date": "2022-02-23T23:20:33.673000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/100446916525457660495/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJMl8DTQTLOZFb4OFMkNhGb6TZVU83vJ46UKif9dHY4=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Hhpqxam7 worse job i ever had. Walked out after being accused time after time of stuff I didn't do of she say he say. Never appreciate the workers and plant manager have favorites and never did care about the employees",
+            "reviewer_name": "Eli Atha",
+            "rating": 1,
+            "review_text": "Hhpqxam7 worse job i ever had. Walked out after being accused time after time of stuff I didn't do of she say he say. Never appreciate the workers and plant manager have favorites and never did care about the employees",
+            "published_at": "5 years ago",
+            "published_at_date": "2017-12-22T12:56:07.590000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104860966647607344838/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ2XrNZpRiXxolvpKtD5OI-7hOWvdWvLbaAo9aRCwW6=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I'm completely unrelated to the loser who rated this AMAZING place a one start. They are so fantastic and the foam is of utter godly quality. Whoever rates this company poorly clearly doesn't understand quality foam.",
+            "reviewer_name": "Joseph Tillery",
+            "rating": 5,
+            "review_text": "I'm completely unrelated to the loser who rated this AMAZING place a one start. They are so fantastic and the foam is of utter godly quality. Whoever rates this company poorly clearly doesn't understand quality foam.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-01-16T14:23:25.032000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112375124606421091174/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLSKw7p2pm7uaBv0CfiJF4lIb2P6-mPxlMuJhJgdAdg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Bit of a cluster when I showed up to get my load, broker told me to be there by 20:00 to pick up, got there and was told that my load wouldn't be ready until the next day, folks were cool though, told me I could drop my trailer in the door and go chill at the truck stop for the night if I wanted, or I could stay overnight.",
+            "reviewer_name": "Timothy Seders",
+            "rating": 4,
+            "review_text": "Bit of a cluster when I showed up to get my load, broker told me to be there by 20:00 to pick up, got there and was told that my load wouldn't be ready until the next day, folks were cool though, told me I could drop my trailer in the door and go chill at the truck stop for the night if I wanted, or I could stay overnight.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-06-12T08:20:38.047000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/113217797416126877096/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxbV-LIazRSOBX3-LIBGQXi-xG-hH8_0DH0uVyZ3NxfiqR=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I love working here. Great ppl",
+            "reviewer_name": "megan F",
+            "rating": 5,
+            "review_text": "I love working here. Great ppl",
+            "published_at": "3 years ago",
+            "published_at_date": "2019-12-21T02:24:34.543000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/115993987611138427447/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUftSkQ4XfOgpBAHUiWsJAkcA-kk0QDZ0bqQ3_RSzOr_VY=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,141 @@
+{
+    "place_id": "ChIJK2pa0HSh9YgRdfOxtD5TSpU",
+    "name": "Georgia Foam-Coolers & More, INC.",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.georgiafcm.com/",
+    "owner": {
+        "id": "106827025116285161835",
+        "name": "Georgia Foam-Coolers & More, INC. (Owner)",
+        "link": "https://www.google.com/maps/contrib/106827025116285161835"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PqvJ6142hNlprbk3iic1_w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=337.19083&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer"
+    ],
+    "rating": null,
+    "workday_timing": "7 AM-3 PM",
+    "closed_on": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(770) 559-1977",
+    "address": "Georgia Foam-Coolers & More, INC., 6899 Peachtree Industrial Blvd Suite F, Peachtree Corners, GA 30092",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Georgia+Foam-Coolers+%26+More,+INC./data=!4m7!3m6!1s0x88f5a174d05a6a2b:0x954a533eb4b1f375!8m2!3d33.9362874!4d-84.2566484!16s%2Fg%2F11k6ljb658!19sChIJK2pa0HSh9YgRdfOxtD5TSpU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 AM Mon",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJK2pa0HSh9YgRdfOxtD5TSpU&q=Georgia+Foam-Coolers+%26+More,+INC.&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 33.9362874,
+        "longitude": -84.2566484
+    },
+    "plus_code": "WPPV+G8 Peachtree Corners, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "6899 Peachtree Industrial Blvd Suite F",
+        "city": "Peachtree Corners",
+        "postal_code": "30092",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "10757502188712489845",
+    "data_id": "0x88f5a174d05a6a2b:0x954a533eb4b1f375",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible restroom",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible seating",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PqvJ6142hNlprbk3iic1_w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=337.19083&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PqvJ6142hNlprbk3iic1_w&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=337.19083&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "7 AM-3 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "7 AM-3 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "7 AM-3 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

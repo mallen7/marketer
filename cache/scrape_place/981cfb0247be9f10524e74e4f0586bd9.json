@@ -1,0 +1,335 @@
+{
+    "place_id": "ChIJ16WwQbYq9IgRQY6_Zo0G4j4",
+    "name": "Profoam Corporation",
+    "description": null,
+    "reviews": 38,
+    "website": "https://www.profoam.com/",
+    "owner": {
+        "id": "104504662407006045364",
+        "name": "Profoam Corporation (Owner)",
+        "link": "https://www.google.com/maps/contrib/104504662407006045364"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZy2IdUTOx1rVhgsvbbKIhIbtVkTsthl_syXC2=w578-h240-k-no",
+    "main_category": "Insulator supplier",
+    "categories": [
+        "Insulator supplier",
+        "Insulation contractor",
+        "Insulation materials store"
+    ],
+    "rating": 4.9,
+    "workday_timing": "8 AM-5 PM",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(706) 960-6991",
+    "address": "Profoam Corporation, 145 Newborn Rd, Rutledge, GA 30663",
+    "review_keywords": [
+        {
+            "keyword": "spray foam",
+            "count": 8
+        },
+        {
+            "keyword": "knowledge",
+            "count": 7
+        },
+        {
+            "keyword": "product",
+            "count": 5
+        },
+        {
+            "keyword": "training",
+            "count": 4
+        },
+        {
+            "keyword": "insulation",
+            "count": 3
+        },
+        {
+            "keyword": "company",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Profoam+Corporation/data=!4m7!3m6!1s0x88f42ab641b0a5d7:0x3ee2068d66bf8e41!8m2!3d33.6247253!4d-83.6125177!16s%2Fg%2F11b6_cm5wg!19sChIJ16WwQbYq9IgRQY6_Zo0G4j4?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 5 PM",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 36
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ16WwQbYq9IgRQY6_Zo0G4j4&q=Profoam+Corporation&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 33.6247253,
+        "longitude": -83.6125177
+    },
+    "plus_code": "J9FP+VX Rutledge, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "145 Newborn Rd",
+        "city": "Rutledge",
+        "postal_code": "30663",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "4531191379472125505",
+    "data_id": "0x88f42ab641b0a5d7:0x3ee2068d66bf8e41",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMZy2IdUTOx1rVhgsvbbKIhIbtVkTsthl_syXC2=w718-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPHvc9X-iSsQRY9975EehHstx3CiHRSoo7BP1UA=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOIDxEVQiCmn6ltt-twGJZxTU7ubFUwatHaO4zP=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=D2ghD0VSvlhF8niuwb4Z0Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=278.24158&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "After looking at and talking to several different companies who build rigs, I purchased a foam rig here based in large part on their personable, small company demeanor.  Since the purchase I   received on the job training,  then attended the classroom setting training.     Since then,  I have worked closely with my rep, James Kuhn, in gaining more knowledge not only in foam application,  but also in general business practice,\nfrom his years of experience as a former business owner.   Everyone involved has been very helpful and informative.   James has went above and beyond answering questions and giving advice,  even on the weekends and his days off.  I may have saved a few hundred dollars buying elsewhere,  but the help and quality of product,  I've received here is worth way more than the little money I could've saved in the initial purchase.",
+            "reviewer_name": "Steve",
+            "rating": 5,
+            "review_text": "After looking at and talking to several different companies who build rigs, I purchased a foam rig here based in large part on their personable, small company demeanor.  Since the purchase I   received on the job training,  then attended the classroom setting training.     Since then,  I have worked closely with my rep, James Kuhn, in gaining more knowledge not only in foam application,  but also in general business practice,\nfrom his years of experience as a former business owner.   Everyone involved has been very helpful and informative.   James has went above and beyond answering questions and giving advice,  even on the weekends and his days off.  I may have saved a few hundred dollars buying elsewhere,  but the help and quality of product,  I've received here is worth way more than the little money I could've saved in the initial purchase.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-05T21:27:06.455000Z",
+            "response_from_owner_text": "Thank you for the kind words Steve! We enjoyed getting to spend time with you at the spray foam training class at Profoam. We are proud of our great customer service from the reps to the office girls! We are excited to watch you take off with your new spray foam business! ",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-06T20:23:59.515000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/103998213582078999280/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIyIRqLjBQW5JBvx97wkieOh43djKsH7KQFwKwq8MWv=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Profoam is the best in training, support/ customer service and rig design. The office staff at Profoam is always smiling and in a great mood with a real family atmosphere. On-site training by James Kuhn was fantastic.  With years of experience running his own spray foam company, James was able to answer every question and show all the techniques needed to be successful.\nFrom start to finish top-notch knowledge and dedication to training us like we would be a crew of his own company.  We learned more in a 3-day period than we could have learned in 5 year of trial and error on our own. When I decided to invest in our own foam rig and company, I knew I wouldn't be spraying but needed one of my best current employees to be trained to do so.  I am 100% confident in the training we received, and I am sure this will be a very profitable investment for us.\n\nThank you Profoam- the best in the business!",
+            "reviewer_name": "Michael Case",
+            "rating": 5,
+            "review_text": "Profoam is the best in training, support/ customer service and rig design. The office staff at Profoam is always smiling and in a great mood with a real family atmosphere. On-site training by James Kuhn was fantastic.  With years of experience running his own spray foam company, James was able to answer every question and show all the techniques needed to be successful.\nFrom start to finish top-notch knowledge and dedication to training us like we would be a crew of his own company.  We learned more in a 3-day period than we could have learned in 5 year of trial and error on our own. When I decided to invest in our own foam rig and company, I knew I wouldn't be spraying but needed one of my best current employees to be trained to do so.  I am 100% confident in the training we received, and I am sure this will be a very profitable investment for us.\n\nThank you Profoam- the best in the business!",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-12T09:47:14.704000Z",
+            "response_from_owner_text": "Thank you for the kind words Mike! We enjoyed getting to spend time with you at our Profoam spray foam training class! We are lucky to have James to train customers in their own spray foam business just as he ran his. We are excited to see your spray foam business thrive in the upcoming months! ",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-12T11:56:18.890000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116156133931681585245/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLunTYCDBYgomIlxjJbRJPe_wRD2sXpCL8iYR7aNij-=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Boy, oh boy. After my week at class, it is without a doubt that these folks at Profoam are top-notch! From their service to their family atmosphere, Profoam has all of the bases covered. I recommend taking this class to ANYONE looking to get into spray foam insulation! If I could give 6 stars I would.",
+            "reviewer_name": "Mason Henderson",
+            "rating": 5,
+            "review_text": "Boy, oh boy. After my week at class, it is without a doubt that these folks at Profoam are top-notch! From their service to their family atmosphere, Profoam has all of the bases covered. I recommend taking this class to ANYONE looking to get into spray foam insulation! If I could give 6 stars I would.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-12T00:03:52.775000Z",
+            "response_from_owner_text": "Wow Mason! Thank you very much! You were an incredible spray foam training student and Profoam wishes you the best of success in your spray foam business and contractor endeavors. We also found out at the training school BBQ that you are one mean cornhole player too! Thanks again.",
+            "response_from_owner_ago": "3 months ago",
+            "response_from_owner_date": "2023-08-12T20:30:58.502000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/118311391294411101724/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLhzs-a_cc_gDUFvie_DkMQvmoFsZVUTUoOtAPIat3g=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "They built us a rig and the quality stands out. We researched trailer builders before our purchase and hands down profoam is the way to go.",
+            "reviewer_name": "Susan Harper",
+            "rating": 5,
+            "review_text": "They built us a rig and the quality stands out. We researched trailer builders before our purchase and hands down profoam is the way to go.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-02T16:51:57.404000Z",
+            "response_from_owner_text": "Susan thank you for your business and your kind review of Profoam's Mobile Spray Rig quality and service. It is our goal to provide as much training and support to spray foam contractors like you! We look forward to watching your spray foam business succeed.",
+            "response_from_owner_ago": "8 months ago",
+            "response_from_owner_date": "2023-03-03T16:24:45.170000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117892638045725436631/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW07snwI_OB0F7gDWLugylrhhY7FKjVFO8OhUILAqoOyg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipN3rPvkUunqwQHyeZYpvJL1T69l4-hScWOVsx4n=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I bought a spray rig from Profoam in August 2019, I have been in business for a year and have done a ton of work, all with Profoam's products.  I must say that after 1 year in business and hiring 2 guys and buying a smaller service trailer that I still believe I made the right choice teaming up with Profoam.  Everyone from the owner to the sales team to the parts room has been there and been very responsive at any time.  Thanks Profoam and I look forward to continued success.\n\nupdate: 4/13/2021 Rig still performing flawlessly, even in this time when we have to spray whatever foam we can get, rig is performing top notch and Profoam is keeping us informed of changes every step of the way.  Still completely satisfied with the choice to go with Profoam.  Ted, Norman, Richard, Chelsea and Janine thanks for help and continued support.",
+            "reviewer_name": "Daniel Walter",
+            "rating": 5,
+            "review_text": "I bought a spray rig from Profoam in August 2019, I have been in business for a year and have done a ton of work, all with Profoam's products.  I must say that after 1 year in business and hiring 2 guys and buying a smaller service trailer that I still believe I made the right choice teaming up with Profoam.  Everyone from the owner to the sales team to the parts room has been there and been very responsive at any time.  Thanks Profoam and I look forward to continued success.\n\nupdate: 4/13/2021 Rig still performing flawlessly, even in this time when we have to spray whatever foam we can get, rig is performing top notch and Profoam is keeping us informed of changes every step of the way.  Still completely satisfied with the choice to go with Profoam.  Ted, Norman, Richard, Chelsea and Janine thanks for help and continued support.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-04-13T18:52:11.404000Z",
+            "response_from_owner_text": "Thank you so much for the great review and updated review, Daniel! We are so proud of how successful you have become as a Profoam spray foam contractor! We look forward to continuing to do business with you and watch your company grow even more! It's been a joy having you as a customer and friend!",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2020-08-19T12:53:41.145000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/111518064501299412663/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLQqegVZ956B7Tt0ZTmKonlbR6GmCI0kK_XRL2kUrbI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNJJtF6cT44uKedRiclBRpCFJhFa4c9SE_S_YK1=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Attended the SprayFoam Academy at their HQ in Georgia! Such a great course ran by professionals committed to raising the standards in the SPF industry! Can't recommend them and their program enough!",
+            "reviewer_name": "Eddy Iglesias",
+            "rating": 5,
+            "review_text": "Attended the SprayFoam Academy at their HQ in Georgia! Such a great course ran by professionals committed to raising the standards in the SPF industry! Can't recommend them and their program enough!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-25T20:29:48.645000Z",
+            "response_from_owner_text": "Eddy thank you so much for your kind words about Profoam's spray foam training class! Really enjoyed having you in GA with us this week learning more about the spray foam business. We wish you the best of success! ",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-05-26T13:05:30.470000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 25,
+            "total_number_of_photos_by_reviewer": 24,
+            "reviewer_url": "https://www.google.com/maps/contrib/109754092078917731374/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJixcM9c8ZTYquietJ5yyPxH36xtzKwRTaVjOK8bdQEXA=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The best in the business! Absolutely love the rig they put together for me. The customer service they offer is second to none. These guys will take care of you!",
+            "reviewer_name": "Philip Peachey",
+            "rating": 5,
+            "review_text": "The best in the business! Absolutely love the rig they put together for me. The customer service they offer is second to none. These guys will take care of you!",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-02-22T16:40:45.152000Z",
+            "response_from_owner_text": "Thanks for the nice review Philip. We enjoy helping great customers like you and can't wait to see what the future holds for you.",
+            "response_from_owner_ago": "3 years ago",
+            "response_from_owner_date": "2020-02-22T18:46:51.908000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/111800816483573254090/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVJD_hHLHp45AN__2Y5f09ssj9Ku5ik2gSlm6Ev-YLxhQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipPDooTgMgVaQPSm0dtfCKsXhNjgt1P1rGNUjbHE=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipP9WNrFp5leVd877oNlvAXjuOpv9fcwHOF3pXnz=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMsocf26pSu9H5Iz6tWTbev02oB0tXYUUexSG3j=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Went to a training. Best training! Staff is so nice and helpful. They are very professional. The training was not what I expected, it was better!! Recommend 100%",
+            "reviewer_name": "Ana Marceleno",
+            "rating": 5,
+            "review_text": "Went to a training. Best training! Staff is so nice and helpful. They are very professional. The training was not what I expected, it was better!! Recommend 100%",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-07-05T16:17:23.813000Z",
+            "response_from_owner_text": "Thank you for the kind review Ana! We enjoyed having you here and looking forward to helping you in your spray foam career.",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-05T16:36:18.517000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/115394971183876314219/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKYJzqTz4RaRVxMxpag4Mrhc1m0qqV0YInJ8XFrFZd8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,305 @@
+{
+    "place_id": "ChIJAQAcTPNG9IgROZzyTEDTwfQ",
+    "name": "Georgia Spray Foam Services",
+    "description": null,
+    "reviews": 14,
+    "website": null,
+    "owner": {
+        "id": "118251157842964981513",
+        "name": "Georgia Spray Foam Services (Owner)",
+        "link": "https://www.google.com/maps/contrib/118251157842964981513"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPULP0l0K5r3uavtV1_TrS3WCl2J3yu-SD34Wq5=w408-h306-k-no",
+    "main_category": "Insulation contractor",
+    "categories": [
+        "Insulation contractor"
+    ],
+    "rating": 5,
+    "workday_timing": "8 AM-6 PM",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(678) 883-2753",
+    "address": "Georgia Spray Foam Services, 45 John Frank Ward Blvd, McDonough, GA 30253",
+    "review_keywords": [
+        {
+            "keyword": "job",
+            "count": 5
+        },
+        {
+            "keyword": "price",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Georgia+Spray+Foam+Services/data=!4m7!3m6!1s0x88f446f34c1c0001:0xf4c1d3404cf29c39!8m2!3d33.4473936!4d-84.1455988!16s%2Fg%2F11g03l7380!19sChIJAQAcTPNG9IgROZzyTEDTwfQ?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 6 PM",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 14
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJAQAcTPNG9IgROZzyTEDTwfQ&q=Georgia+Spray+Foam+Services&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 33.4473936,
+        "longitude": -84.1455988
+    },
+    "plus_code": "CVW3+XQ McDonough, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "45 John Frank Ward Blvd",
+        "city": "McDonough",
+        "postal_code": "30253",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "17636609888881908793",
+    "data_id": "0x88f446f34c1c0001:0xf4c1d3404cf29c39",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPULP0l0K5r3uavtV1_TrS3WCl2J3yu-SD34Wq5=w397-h298-k-no"
+        },
+        {
+            "about": "Home",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPULP0l0K5r3uavtV1_TrS3WCl2J3yu-SD34Wq5=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMTvpDz6bSBBjRMLAFuBatc0eAGHfUkbkWQLzt9=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mMzO1pGwXeDGTTUNiap9rQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.45134&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 AM-6 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 AM-6 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 AM-6 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 AM-6 PM"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 AM-6 PM"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Professional installation. Fantastic value. Quoted price was half that of the competitor's. Assessor (Michael) was both friendly and thorough, took detailed measurements, and provided useful energy saving advice. Two-man installation team was skillful and responsible. Georgia Spray Foam is a local business whose employees also volunteer their time for hurricane and disaster relief. I might not have agreed to have my attic spray foamed, but the value was so good and the company was so reliable, I couldn't say no -- and I'm glad I didn't. Georgia Spray Foam Services is highly recommended.",
+            "reviewer_name": "William Kranz",
+            "rating": 5,
+            "review_text": "Professional installation. Fantastic value. Quoted price was half that of the competitor's. Assessor (Michael) was both friendly and thorough, took detailed measurements, and provided useful energy saving advice. Two-man installation team was skillful and responsible. Georgia Spray Foam is a local business whose employees also volunteer their time for hurricane and disaster relief. I might not have agreed to have my attic spray foamed, but the value was so good and the company was so reliable, I couldn't say no -- and I'm glad I didn't. Georgia Spray Foam Services is highly recommended.",
+            "published_at": "2 years ago",
+            "published_at_date": "2020-11-24T01:40:30.194000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106623312292343923867/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnvCKjGxPB2LUNmq_jtWsVuApuIg2NCccOcXtuTc1f=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I can't say enough good things about this company.  They were so professional and did a fantastic job insulating our new home.  They went out of their way to make sure everything was covered and gladly corrected anything we pointed out.  Andrew and Michael were very accommodating and genuinely interested in providing the best thermal envelope available.  Service was outstanding and we would highly recommend this company to anyone needing insulation.",
+            "reviewer_name": "Scott Draper",
+            "rating": 5,
+            "review_text": "I can't say enough good things about this company.  They were so professional and did a fantastic job insulating our new home.  They went out of their way to make sure everything was covered and gladly corrected anything we pointed out.  Andrew and Michael were very accommodating and genuinely interested in providing the best thermal envelope available.  Service was outstanding and we would highly recommend this company to anyone needing insulation.",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-06-27T21:31:55.932000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114695195679754084706/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLS_0winsH0mXGQOZiJkassP9yrJ0td-P2flmqJkh4x=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We did an addition to our home in 2017 and had Michael with Georgia Spray Foam Services come out for an estimate. He was great to work with and we ended up getting Spray Foam in the entire addition. The product and service were great. Would highly recommend!",
+            "reviewer_name": "Andrew Coggins",
+            "rating": 5,
+            "review_text": "We did an addition to our home in 2017 and had Michael with Georgia Spray Foam Services come out for an estimate. He was great to work with and we ended up getting Spray Foam in the entire addition. The product and service were great. Would highly recommend!",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-04-06T02:55:18.599000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107008938954163502749/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK2pZE294rPFpkBSIxUMK4kdYxalxXyebhUa7vQUAzI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great company , prices good and service excellent. Did a great job on my existing home removing old blown in insulation and replacing with foam. Can tell difference in temperatures the next day.Guys did great install and clean up was great also.Highly recommend.",
+            "reviewer_name": "dallas rose",
+            "rating": 5,
+            "review_text": "Great company , prices good and service excellent. Did a great job on my existing home removing old blown in insulation and replacing with foam. Can tell difference in temperatures the next day.Guys did great install and clean up was great also.Highly recommend.",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-07-18T13:08:45.449000Z",
+            "response_from_owner_text": "Thank you Mr. Rose for your kind words! We greatly appreciate your business!",
+            "response_from_owner_ago": "4 years ago",
+            "response_from_owner_date": "2019-07-18T13:30:33.074000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117823750139887557735/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIDIZw3FOjPhgxMa77WpZsB7hU8OYuCpAhocDn8dNC3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great service. They came out on July 2 and had an opening for us on July 3. The owner came out with two great guys. They were friendly. They cleaned up the area well and protected my house. Their work was excellent. Highly recommend this company!",
+            "reviewer_name": "Kym Gile",
+            "rating": 5,
+            "review_text": "Great service. They came out on July 2 and had an opening for us on July 3. The owner came out with two great guys. They were friendly. They cleaned up the area well and protected my house. Their work was excellent. Highly recommend this company!",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-07-06T01:27:06.911000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102403060550069045424/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWHuYkHcJef9eKZCyJU6unntjQpvnXvgbmeX-iyOyIsh5k=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Michael and crew do a great job for us.  We are pleased to utilize their services and recommend them to our customers at Jenco Sales that are looking to climate control their shipping containers.",
+            "reviewer_name": "CJ Crider",
+            "rating": 5,
+            "review_text": "Michael and crew do a great job for us.  We are pleased to utilize their services and recommend them to our customers at Jenco Sales that are looking to climate control their shipping containers.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-08-24T13:48:58.842000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110208183633886541812/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXGPGhjdTt6HCPRP89JezBUZZVTD0Ob9qVKK-9ChVAW5UE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "After searching around in my area for a company to spray foam my garage ceiling I came across Georgia Spray Foam Services, they were also the only company to call me back after my search. The job was done on time, at a fair price and in good order, thanks again guys!!!",
+            "reviewer_name": "Andre Felder",
+            "rating": 5,
+            "review_text": "After searching around in my area for a company to spray foam my garage ceiling I came across Georgia Spray Foam Services, they were also the only company to call me back after my search. The job was done on time, at a fair price and in good order, thanks again guys!!!",
+            "published_at": "4 years ago",
+            "published_at_date": "2019-09-17T22:04:00.641000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105018477980337188741/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGB9GGVjIwacV3RXuf1OrU4fEH0K9vvLAhEtRAeBdqh9E=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had this company come out and spray my addition to the house. They were very professional, and clean with their work, unlike a lot of home improvement companies! I will be returning to them for any other needs with insulation!",
+            "reviewer_name": "Kayla Pike",
+            "rating": 5,
+            "review_text": "I had this company come out and spray my addition to the house. They were very professional, and clean with their work, unlike a lot of home improvement companies! I will be returning to them for any other needs with insulation!",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-05-06T01:34:24.017000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/104793464721672565108/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKuNaMxn5Dg4g_tyitiyRMG-DdbP2dscQVF_HNsATyK=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

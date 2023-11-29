@@ -1,0 +1,277 @@
+{
+    "place_id": "ChIJhQ0l5qSViogRLzPTy_PBjRI",
+    "name": "Drew Foam of Georgia",
+    "description": null,
+    "reviews": 8,
+    "website": "https://www.drewfoamofga.com/",
+    "owner": {
+        "id": null,
+        "name": "Drew Foam of Georgia (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5vCGcch9L4ksCG3cvQjlMw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=33.63687&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer"
+    ],
+    "rating": 2.6,
+    "workday_timing": "9 AM-5 PM",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(800) 235-7483",
+    "address": "Drew Foam of Georgia, 1140 Davis Rd SW, Cave Spring, GA 30124",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Drew+Foam+of+Georgia/data=!4m7!3m6!1s0x888a95a4e6250d85:0x128dc1f3cbd3332f!8m2!3d34.1155669!4d-85.3035377!16s%2Fg%2F11jkcq_6q0!19sChIJhQ0l5qSViogRLzPTy_PBjRI?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 5 PM",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 4,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJhQ0l5qSViogRLzPTy_PBjRI&q=Drew+Foam+of+Georgia&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 34.1155669,
+        "longitude": -85.30353769999999
+    },
+    "plus_code": "4M8W+6H Cave Spring, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1140 Davis Rd SW",
+        "city": "Cave Spring",
+        "postal_code": "30124",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "1336937917239735087",
+    "data_id": "0x888a95a4e6250d85:0x128dc1f3cbd3332f",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5vCGcch9L4ksCG3cvQjlMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=33.63687&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5vCGcch9L4ksCG3cvQjlMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=33.63687&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Extremely sexist, and discriminatory. In the middle of filing an EEOC claim on  this business. Will the guy over HR is an awkward man who fill fire people to make him self seem like he's fitting in. There is a twenty three year old guy there named Steven who absolutely has no idea what he's doing. One of those guys that's loud but doesn't know anything. And unfortunately those two are in charge of a lot. I worked here and three of my checks were short in two months. They openly break osha guidelines.  They promise to hire you on after three months and don't. You get paid 12.50 to work in a dangerous, hot, drama filled environment.",
+            "reviewer_name": "kris Floyd",
+            "rating": 1,
+            "review_text": "Extremely sexist, and discriminatory. In the middle of filing an EEOC claim on  this business. Will the guy over HR is an awkward man who fill fire people to make him self seem like he's fitting in. There is a twenty three year old guy there named Steven who absolutely has no idea what he's doing. One of those guys that's loud but doesn't know anything. And unfortunately those two are in charge of a lot. I worked here and three of my checks were short in two months. They openly break osha guidelines.  They promise to hire you on after three months and don't. You get paid 12.50 to work in a dangerous, hot, drama filled environment.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-22T17:16:52.401000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 38,
+            "total_number_of_photos_by_reviewer": 9,
+            "reviewer_url": "https://www.google.com/maps/contrib/110254811500737649337/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUo50UM0k1pn5YNzY1jd_tQC8Pax7DXB1CWH-RW4HQBlQ=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Terribly slow loading, everyone is super nice but you better pack your lunch!",
+            "reviewer_name": "John Barry",
+            "rating": 1,
+            "review_text": "Terribly slow loading, everyone is super nice but you better pack your lunch!",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-17T15:36:50.677000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 91,
+            "total_number_of_photos_by_reviewer": 86,
+            "reviewer_url": "https://www.google.com/maps/contrib/108953331479380022741/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJWsSEQea07x9_VhVQMS_QhYkugI9elu-N_R6dijHl1=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "If you're a trucker look for the first turn off for Davis Rd. RanMacnally sent us to the second one which is a no truck route and it's a bad word getting turned around.\n\nTight backing going up hill --",
+            "reviewer_name": "April B",
+            "rating": 5,
+            "review_text": "If you're a trucker look for the first turn off for Davis Rd. RanMacnally sent us to the second one which is a no truck route and it's a bad word getting turned around.\n\nTight backing going up hill --",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-21T15:56:28.921000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 8,
+            "reviewer_url": "https://www.google.com/maps/contrib/117465471690979767017/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL5ObLbYwgb7ZtNC_P23LjurvgYn6J0YPBEXWevsdVRRg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I was given a tour of the plant. It was awesome. I was amazed at the many different processes it takes to make Styrofoam and tiny Styrofoam beads. The plant was exceptionally clean and very well organized. I'd have to say it is a awesome industry and a great experience for myself to see.. I recommend Drew foam company to everyone...",
+            "reviewer_name": "Amanda Day",
+            "rating": 5,
+            "review_text": "I was given a tour of the plant. It was awesome. I was amazed at the many different processes it takes to make Styrofoam and tiny Styrofoam beads. The plant was exceptionally clean and very well organized. I'd have to say it is a awesome industry and a great experience for myself to see.. I recommend Drew foam company to everyone...",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-07-08T14:43:41.043000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 60,
+            "total_number_of_photos_by_reviewer": 34,
+            "reviewer_url": "https://www.google.com/maps/contrib/114801181544680035391/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX7svKFsu_UZp7z645g-HhwOXdY_V7s0f5UsRPwOJ2sSC8z=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "First time and last time avoid this place too slow",
+            "reviewer_name": "Munisjon Muminov",
+            "rating": 1,
+            "review_text": "First time and last time avoid this place too slow",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-23T14:18:28.413000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 30,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/104739046187565361407/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXinUeYv8TP9tEWlywAI3LsSvAfZ3UewROXoe2JPwHEBVs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very hard backing into dock, on a hill. TIGHT",
+            "reviewer_name": "Carmine Anastasio",
+            "rating": 2,
+            "review_text": "Very hard backing into dock, on a hill. TIGHT",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-11-11T23:30:13.249000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 121,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/100367830777411349796/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIlYOVIJ4UxpvA3I6I8A_ubJUstUzbXtizpA28nEBWW=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Rodney Darwin",
+            "rating": 1,
+            "review_text": null,
+            "published_at": "3 years ago",
+            "published_at_date": "2020-11-21T19:03:21.552000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101472473332054067930/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLq4H6cdeyx9NQuEYE014VfniqqJZDiTOxoGWKaSJCV=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "John Laiche",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "2 years ago",
+            "published_at_date": "2021-01-15T18:43:17.869000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105409437499712302681/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWkNZtryYLM8690vv--SF8XD8XcfX8Ay431aS9O_FatP-XE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

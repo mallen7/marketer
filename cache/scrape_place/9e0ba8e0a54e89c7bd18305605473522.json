@@ -1,0 +1,104 @@
+{
+    "place_id": "ChIJE2M78qS19YgRwRXZ4BuQGMM",
+    "name": "Foam Recycling",
+    "description": null,
+    "reviews": null,
+    "website": "http://www.dartcontainer.com/",
+    "owner": {
+        "id": null,
+        "name": "Foam Recycling (Owner)",
+        "link": null
+    },
+    "featured_image": null,
+    "main_category": "Recycling center",
+    "categories": [
+        "Recycling center"
+    ],
+    "rating": null,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "(770) 483-9556",
+    "address": "Foam Recycling, 1368 Old Covington Rd NE, Conyers, GA 30013",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Foam+Recycling/data=!4m7!3m6!1s0x88f5b5a4f23b6313:0xc318901be0d915c1!8m2!3d33.6587285!4d-83.9975582!16s%2Fg%2F11h5r3np8x!19sChIJE2M78qS19YgRwRXZ4BuQGMM?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": null,
+        "2": null,
+        "3": null,
+        "4": null,
+        "5": null
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJE2M78qS19YgRwRXZ4BuQGMM&q=Foam+Recycling&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 33.658728499999995,
+        "longitude": -83.9975582
+    },
+    "plus_code": "M252+FX Conyers, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1368 Old Covington Rd NE",
+        "city": "Conyers",
+        "postal_code": "30013",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "14058144686247843265",
+    "data_id": "0x88f5b5a4f23b6313:0xc318901be0d915c1",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [],
+    "is_spending_on_ads": false
+}

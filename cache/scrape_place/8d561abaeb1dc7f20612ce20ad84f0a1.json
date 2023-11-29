@@ -1,0 +1,111 @@
+{
+    "place_id": "ChIJJ5UvLc0JYIgRFAAwTGI9okI",
+    "name": "Dalton Foam",
+    "description": null,
+    "reviews": 2,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "Dalton Foam (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WDCB7nwSsIvX5bJ5BSkFpg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=29.555754&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer"
+    ],
+    "rating": 3,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(706) 277-1003",
+    "address": "Dalton Foam, 4959 S Dixie Hwy, Dalton, GA 30721",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Dalton+Foam/data=!4m7!3m6!1s0x886009cd2d2f9527:0x42a23d624c300014!8m2!3d34.6254331!4d-84.9525036!16s%2Fg%2F11g8h3xprx!19sChIJJ5UvLc0JYIgRFAAwTGI9okI?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 1
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJJ5UvLc0JYIgRFAAwTGI9okI&q=Dalton+Foam&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 34.625433099999995,
+        "longitude": -84.9525036
+    },
+    "plus_code": "J2GW+5X Dalton, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "4959 S Dixie Hwy",
+        "city": "Dalton",
+        "postal_code": "30721",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "4801467645124673556",
+    "data_id": "0x886009cd2d2f9527:0x42a23d624c300014",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WDCB7nwSsIvX5bJ5BSkFpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.555754&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=WDCB7nwSsIvX5bJ5BSkFpg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.555754&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "14$ an hour 6 days a week!!! I don't think so....people have families, and with today's economy 14$ is NOT worth it. Maybe if yall bumped your pay up to 16$, and let let your workers have weekends with their families yall could keep people in there!!! Not to mention with ALL of the safety rules DEF NOT WORTH THE PAY!!!!",
+            "reviewer_name": "Dianne Harden",
+            "rating": 1,
+            "review_text": "14$ an hour 6 days a week!!! I don't think so....people have families, and with today's economy 14$ is NOT worth it. Maybe if yall bumped your pay up to 16$, and let let your workers have weekends with their families yall could keep people in there!!! Not to mention with ALL of the safety rules DEF NOT WORTH THE PAY!!!!",
+            "published_at": "10 months ago",
+            "published_at_date": "2023-01-19T12:13:08.037000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101874841882803820939/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI8FXyawabaqaQGJtd7FJjKXHYRMFYWs8_duaZPBsyg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is a great place to work for, Great hours, great benefits, great pay, and great group of people you work with! The bosses always keep you updated and no surprises!",
+            "reviewer_name": "Kacy Pitt",
+            "rating": 5,
+            "review_text": "This is a great place to work for, Great hours, great benefits, great pay, and great group of people you work with! The bosses always keep you updated and no surprises!",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-06T16:49:32.460000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109726852136249076678/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKh95d6AOCFvJS4bHclEUNJBq0uVeRfQBEDTbZHT1y3=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

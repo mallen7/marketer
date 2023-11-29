@@ -1,0 +1,299 @@
+{
+    "place_id": "ChIJO7w4pub39YgR49dmKF30Q0Y",
+    "name": "ACH Foam Technologies, Inc.",
+    "description": null,
+    "reviews": 8,
+    "website": null,
+    "owner": {
+        "id": null,
+        "name": "ACH Foam Technologies, Inc. (Owner)",
+        "link": null
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUiGHYKomnHmUfp3dgbYAxsOgR59qJTotHsraz=w408-h544-k-no",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer"
+    ],
+    "rating": 3.5,
+    "workday_timing": "8 AM-5 PM",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(770) 536-7900",
+    "address": "ACH Foam Technologies, Inc., 2731 White Sulphur Rd, Gainesville, GA 30501",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/ACH+Foam+Technologies,+Inc./data=!4m7!3m6!1s0x88f5f7e6a638bc3b:0x4643f45d2866d7e3!8m2!3d34.344388!4d-83.778556!16s%2Fg%2F1tcv750j!19sChIJO7w4pub39YgR49dmKF30Q0Y?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 5 PM",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 5
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJO7w4pub39YgR49dmKF30Q0Y&q=ACH+Foam+Technologies,+Inc.&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 34.344387999999995,
+        "longitude": -83.778556
+    },
+    "plus_code": "86VC+QH Gainesville, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "2731 White Sulphur Rd",
+        "city": "Gainesville",
+        "postal_code": "30501",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "5063159087041533923",
+    "data_id": "0x88f5f7e6a638bc3b:0x4643f45d2866d7e3",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMUiGHYKomnHmUfp3dgbYAxsOgR59qJTotHsraz=w224-h298-k-no"
+        },
+        {
+            "about": "Machine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMODG7oZICrZAoq10oli52DHcB8DZWJZqlVGSaa=w496-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ojmi_cbL1y78z1Hkndh-5Q&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=322.2598&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 AM-5 PM"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Foam is clean, dry, and consistent. I have not had any problems ordering, getting information, or picking up. Staff members have always been courteous and respectful of my time when I am at their facility to pick up. Nick Robinson is my sales person and has always been a great to work with.",
+            "reviewer_name": "jason cannon",
+            "rating": 5,
+            "review_text": "Foam is clean, dry, and consistent. I have not had any problems ordering, getting information, or picking up. Staff members have always been courteous and respectful of my time when I am at their facility to pick up. Nick Robinson is my sales person and has always been a great to work with.",
+            "published_at": "6 years ago",
+            "published_at_date": "2017-02-23T13:14:05.972000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 118,
+            "reviewer_url": "https://www.google.com/maps/contrib/115069939953592696546/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUieJZklZuh0g4_-sUivOhAPkDJfzPQY9p9dZNKixWNp96i=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMtJbNV3UgP0J3aQZbNhVrqqROey8r3x2aN6xF9=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMUiGHYKomnHmUfp3dgbYAxsOgR59qJTotHsraz=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Poor place of employment. I went this morning to finish paperwork after being hired. The hr person that interviewed and hired me wasn't there today. Called out due to a family emergency, I can understand that. But what I can't understand is the fact no one else knew anything about me coming today or what to do. Waited for over an hour before I told them thank you but no thank you. I can only imagine how actually working there is if this is the way they handled this.",
+            "reviewer_name": "Matthew Crane",
+            "rating": 1,
+            "review_text": "Poor place of employment. I went this morning to finish paperwork after being hired. The hr person that interviewed and hired me wasn't there today. Called out due to a family emergency, I can understand that. But what I can't understand is the fact no one else knew anything about me coming today or what to do. Waited for over an hour before I told them thank you but no thank you. I can only imagine how actually working there is if this is the way they handled this.",
+            "published_at": "4 years ago",
+            "published_at_date": "2018-12-11T02:17:36.965000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/101521374807131386653/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKnVPCfXaL-CQJJ2EM7HtCLgWgR0kLT2YrNX_PyXF4U=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "If you put in your time and service, there's nothing this company and people wouldn't do for you love working at ACH ",
+            "reviewer_name": "Karriem Jessie",
+            "rating": 5,
+            "review_text": "If you put in your time and service, there's nothing this company and people wouldn't do for you love working at ACH ",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-02-27T12:54:10.182000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102387900807464547040/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLtwXyBpscz-Ja-41nU4ZPl7eOWxEbQ_B-apT1xbrYT=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "If you are looking for a job I do not recommend this place if you decide to work a whole week the minimum you expect is that they give you 500 dollars for those days\nWhen I look at my check they only paid me 390 dollars\nI wasted my time with this company",
+            "reviewer_name": "Julian Santamaria",
+            "rating": 1,
+            "review_text": "If you are looking for a job I do not recommend this place if you decide to work a whole week the minimum you expect is that they give you 500 dollars for those days\nWhen I look at my check they only paid me 390 dollars\nI wasted my time with this company",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-09-25T19:16:47.587000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100968409733483929195/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXAJpwPexxjkXBUiMdJ544ISMI5gkRSqclRVUCLlq6y=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Beware drivers! This place takes along time to load. Took driver 4-5 hrs to get loaded.",
+            "reviewer_name": "Storm Tidal",
+            "rating": 1,
+            "review_text": "Beware drivers! This place takes along time to load. Took driver 4-5 hrs to get loaded.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-05-31T01:42:58.564000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104761318211166837829/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVPRj2VmJ7M2Z6BMxyebWT2tvcx9wTG4555LT-Pfl5MaFQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Very nice guy at check in and quick loading.",
+            "reviewer_name": "A D",
+            "rating": 5,
+            "review_text": "Very nice guy at check in and quick loading.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-07-20T14:23:09.074000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 46,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111008132030177903366/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL-kCoopzhQd46yJ7t44k_Sa58w3fErWPzQfoznoEa8mA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Alway quick to get you loaded and on your way.",
+            "reviewer_name": "William Jones",
+            "rating": 5,
+            "review_text": "Alway quick to get you loaded and on your way.",
+            "published_at": "6 years ago",
+            "published_at_date": "2017-05-27T22:07:49.582000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 32,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/113419846499787278482/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIvK5LO_iasz8N9FKAnfphmvoDVzHLZUHrXmlhzFv5E=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It's where I work!",
+            "reviewer_name": "chester chesterconrad57@yahoo.com",
+            "rating": 5,
+            "review_text": "It's where I work!",
+            "published_at": "6 years ago",
+            "published_at_date": "2017-05-12T10:44:38.717000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100721129711063264125/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV_pEVP6IYMrIoQ3ov6uW6xBw-nepb27Dmw1BcyCqNy2A=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

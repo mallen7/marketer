@@ -1,0 +1,243 @@
+{
+    "place_id": "ChIJNcV48rf29YgRnkrl3xuK0UE",
+    "name": "Cellofoam North America, Inc.",
+    "description": null,
+    "reviews": 5,
+    "website": "https://www.cellofoam.com/",
+    "owner": {
+        "id": "113841794106032191467",
+        "name": "Cellofoam North America, Inc. (Owner)",
+        "link": "https://www.google.com/maps/contrib/113841794106032191467"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uCdH-XP3jbDqWXnNWUF0ew&cb_client=search.gws-prod.gps&w=408&h=240&yaw=307.92996&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer",
+        "Exporter"
+    ],
+    "rating": 3.4,
+    "workday_timing": "8 AM-3:30 PM",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(770) 536-8888",
+    "address": "Cellofoam North America, Inc., 1090 Airport Pkwy, Gainesville, GA 30501",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Cellofoam+North+America,+Inc./data=!4m7!3m6!1s0x88f5f6b7f278c535:0x41d18a1bdfe54a9e!8m2!3d34.2747691!4d-83.8265568!16s%2Fg%2F1v2ky8fw!19sChIJNcV48rf29YgRnkrl3xuK0UE?authuser=0&hl=en&rclk=1",
+    "status": "Open  Closes 3:30 PM",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 3
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJNcV48rf29YgRnkrl3xuK0UE&q=Cellofoam+North+America,+Inc.&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 34.2747691,
+        "longitude": -83.82655679999999
+    },
+    "plus_code": "75FF+W9 Gainesville, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "1090 Airport Pkwy",
+        "city": "Gainesville",
+        "postal_code": "30501",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "4742723734922939038",
+    "data_id": "0x88f5f6b7f278c535:0x41d18a1bdfe54a9e",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uCdH-XP3jbDqWXnNWUF0ew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=307.92996&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Machine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipP0Bjwvufe9kyzDJBc4exYmwG8xW71kqB6htC3i=w279-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNh9uoAPa_1j1NCae7oPaYSqfEBNnYWKtnYT6ZT=w355-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uCdH-XP3jbDqWXnNWUF0ew&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=307.92996&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 AM-3:30 PM"
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 AM-3:30 PM"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 AM-3:30 PM"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 AM-3:30 PM"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 AM-3:30 PM"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The foam they produce is sub par and we have had many problems with this company. They do not have a quality control department and they have a high turnover rate of low skill workers.",
+            "reviewer_name": "jason cannon",
+            "rating": 1,
+            "review_text": "The foam they produce is sub par and we have had many problems with this company. They do not have a quality control department and they have a high turnover rate of low skill workers.",
+            "published_at": "5 years ago",
+            "published_at_date": "2018-08-30T13:03:22.814000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 130,
+            "total_number_of_photos_by_reviewer": 118,
+            "reviewer_url": "https://www.google.com/maps/contrib/115069939953592696546/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUieJZklZuh0g4_-sUivOhAPkDJfzPQY9p9dZNKixWNp96i=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMFMVfQm0pitcYdvoUJscvI6TA8RSdr1NPl1FCd=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Slow they stand around and after that they take there time. the road going to say no truck but it's OK for truck",
+            "reviewer_name": "lincoln bowen",
+            "rating": 1,
+            "review_text": "Slow they stand around and after that they take there time. the road going to say no truck but it's OK for truck",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-10-06T18:03:23.299000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 9,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100268089673639523623/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLG3r1qgzMqmPprOz0ZZbObcmpuGNZL9yT3Z9W0NppD=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "nice my appt 11 am rtey give door 8 am",
+            "reviewer_name": "Ahmed Kadim",
+            "rating": 5,
+            "review_text": "nice my appt 11 am rtey give door 8 am",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-01T12:51:16.189000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105785190881329589426/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMc9Ldv8H-GIoe_IVcPk-HY9hnoMDJgTR70WS0MyUs=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Good",
+            "reviewer_name": "Luis P.",
+            "rating": 5,
+            "review_text": "Good",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-10-07T16:51:17.525000Z",
+            "response_from_owner_text": "Luis. Thank you for taking the time to share your experience by posting a five-star review.",
+            "response_from_owner_ago": "3 years ago",
+            "response_from_owner_date": "2020-10-08T14:05:38.050000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/102775563144620724028/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXXkW7DNaPrbnI4fUOKelz3nlNvlaNxtzNdnofepjQKr-I=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "COREY BORN",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 years ago",
+            "published_at_date": "2018-09-17T00:52:29.946000Z",
+            "response_from_owner_text": "Thank you for the five-star rating. We sincerely appreciate your time and for sharing your experience!",
+            "response_from_owner_ago": "4 years ago",
+            "response_from_owner_date": "2019-11-01T12:37:38.779000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 19,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/100524019425389057086/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIB-r5CDH2Tpy4QBRZAbeGwGAVndczlEK7dcaXqe4ET=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

@@ -1,0 +1,261 @@
+{
+    "place_id": "ChIJWY8nI1e-9YgReKrElT2iZZY",
+    "name": "Atlanta Foam",
+    "description": null,
+    "reviews": 8,
+    "website": "http://www.atlfoam.com/",
+    "owner": {
+        "id": null,
+        "name": "Atlanta Foam (Owner)",
+        "link": null
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NLN3t7R9GXVhmd0dyfGjhA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=336.97186&pitch=0&thumbfov=100",
+    "main_category": "Manufacturer",
+    "categories": [
+        "Manufacturer",
+        "Plastic fabrication company"
+    ],
+    "rating": 3,
+    "workday_timing": null,
+    "closed_on": [],
+    "phone": "(770) 682-2889",
+    "address": "Atlanta Foam, 154 Industrial Park Cir, Lawrenceville, GA 30046",
+    "review_keywords": [],
+    "link": "https://www.google.com/maps/place/Atlanta+Foam/data=!4m7!3m6!1s0x88f5be5723278f59:0x9665a23d95c4aa78!8m2!3d33.9661468!4d-83.9828026!16s%2Fg%2F1tnsss8p!19sChIJWY8nI1e-9YgReKrElT2iZZY?authuser=0&hl=en&rclk=1",
+    "status": null,
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 4,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 4
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJWY8nI1e-9YgReKrElT2iZZY&q=Atlanta+Foam&authuser=0&hl=en&gl=US",
+    "coordinates": {
+        "latitude": 33.9661468,
+        "longitude": -83.9828026
+    },
+    "plus_code": "X288+FV Lawrenceville, Georgia",
+    "detailed_address": {
+        "ward": null,
+        "street": "154 Industrial Park Cir",
+        "city": "Lawrenceville",
+        "postal_code": "30046",
+        "state": "Georgia",
+        "country_code": "US"
+    },
+    "time_zone": "America/New_York",
+    "cid": "10837246463726365304",
+    "data_id": "0x88f5be5723278f59:0x9665a23d95c4aa78",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NLN3t7R9GXVhmd0dyfGjhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=336.97186&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NLN3t7R9GXVhmd0dyfGjhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=336.97186&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [],
+    "featured_reviews": [
+        {
+            "review_id": "Worst place to ever work at if u have an American citizenship.",
+            "reviewer_name": "Zon 3aly",
+            "rating": 1,
+            "review_text": "Worst place to ever work at if u have an American citizenship.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-09T15:03:55.238000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112035065336004826931/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX4p8kzkz9Fa7dBBwvUqG5qHTh6XPIvvm__hqnqYjnF_gE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Ghosted us after saying a small prototype job was not too small for them.   Didn't return calls or emails.  I emphasized upfront that if it was too small, we didn't want to waste their time.  They ended up wasting ours instead.",
+            "reviewer_name": "G T",
+            "rating": 1,
+            "review_text": "Ghosted us after saying a small prototype job was not too small for them.   Didn't return calls or emails.  I emphasized upfront that if it was too small, we didn't want to waste their time.  They ended up wasting ours instead.",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-01-20T15:49:20.315000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111132433319210248102/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLGbiQs-7xptel_vZ9nWpRK_3XJB2s0nV0fUbdaNtWR=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Worked here back in 2016 and was the worst.",
+            "reviewer_name": "ACEComrade 100",
+            "rating": 1,
+            "review_text": "Worked here back in 2016 and was the worst.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-09-04T21:52:22.620000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/100227635063110440516/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUE79hWb39NtYYH_RqSoe2gKGYEy7iFQX_qfAbFkBWE9uY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It's a sweat shop what's more to say I feel sorry for the employees that work at this location.",
+            "reviewer_name": "Ntg Ntg",
+            "rating": 1,
+            "review_text": "It's a sweat shop what's more to say I feel sorry for the employees that work at this location.",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-09-26T08:23:57.914000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107036509977934380563/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKmpSBxeslSz95ADTmiMdZwNOEKPPM5_VxYR3ebnXLY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Optimal Tax Solutions",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "5 years ago",
+            "published_at_date": "2018-01-31T10:57:54.837000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113744882786548890440/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW64CWviAJGEl47zHcGSYMiv0xYhyrrcsvgOILUp1NiqjU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "kwantisha",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 years ago",
+            "published_at_date": "2019-01-03T21:00:57.175000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104145445097385961175/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ9IpNO6vCBeXOQiDzjisdqJZD0XO8AIl_nhggSW9vLyTM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "David V",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "4 years ago",
+            "published_at_date": "2019-02-20T15:07:15.824000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 202,
+            "total_number_of_photos_by_reviewer": 323,
+            "reviewer_url": "https://www.google.com/maps/contrib/109543856595015579841/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXDEIcYPGI_m0HwllIPqZgv9pt_9VppmXwA26QTKMIsOTQ=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": null,
+            "reviewer_name": "Emmette Lane",
+            "rating": 5,
+            "review_text": null,
+            "published_at": "6 years ago",
+            "published_at_date": "2017-07-31T10:49:57.813000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111334503460937516216/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUx48UZf6Ng1hQBbviOXUKMbj80u4eEGr6-44feasqp-NM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}
