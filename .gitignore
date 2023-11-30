@@ -1,5 +1,7 @@
 .trunk/
-processing/extracted-domains/*
+processing/extracted-domains/dirty/*
+processing/extracted-domains/temp/*
+processing/extracted-domains/clean/*
 processing/extracted-emails/*
 processing/gmaps-output/*
 processing/latest-q/*

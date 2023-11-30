@@ -35,12 +35,8 @@ echo "Performing ETL operations..."
 cut -d',' -f6 "processing/latest-q/tmp_${fuid}.csv" >> "./processing/extracted-domains/dirty/gmaps-extracted-domains.csv"
 # rm -f ./processing/latest-q/tmp_output.csv
 
-# Clean up domain data
-#echo "Cleaning data 1/2..."
-#sed -i '' -E 's#http(s)?://([^/]+)([^ ]*)#\2#g' ./processing/extracted-domains/dirty/gmaps-extracted-domains.csv
-
 # Clean domains again
-echo "Cleaning data 2/2..."
+echo "Cleaning data..."
 ./custom/domain-cleaner.sh gmaps-extracted-domains.csv
 mv ./processing/extracted-domains/clean/gmaps-extracted-domains.csv ./processing/extracted-domains/clean/gmaps-extracted-domains.txt
 
