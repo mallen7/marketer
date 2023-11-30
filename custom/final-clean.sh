@@ -10,8 +10,8 @@ fi
 filename=$1
 
 # Replace these with your actual file paths
-input_file="../results/results_tmp.txt"
-output_file="../results/emails_${filename}"
+input_file="results/results_tmp.txt"
+output_file="results/emails_${filename}"
 
 # Regular expression for email validation
 regex='[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
