@@ -25,7 +25,10 @@ cd ../..
 
 # Get latest Google Maps query output
 echo "Pulling scraper output..."
-find "proj/google-maps-scraper/output" -type f -name "*.csv" -not -path "proj/google-maps-scraper/output/all/*" -print0 | xargs -0 ls -t | head -n 1 | xargs -I '{}' cp -fr '{}' "processing/latest-q/tmp_$fuid.csv"
+find proj/google-maps-scraper/output -type f -name "*.csv" -not -path "proj/google-maps-scraper/output/all/*" -print0 | xargs -0 ls -t | head -n 1 | xargs -I '{}' cp -fr '{}' processing/latest-q/tmp_$fuid.csv
+if [ $? -ne 0 ]; then
+    echo "Error occurred in find or copy command"
+fi
 
 # Cut out the domain column and create new file
 echo "Performing ETL operations..."
