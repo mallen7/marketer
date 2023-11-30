@@ -10,6 +10,9 @@ export fuid=${current_date}-${current_time}
 export random_number=$(( RANDOM % 10000 ))
 export rand_num=$(printf "%04d" $random_number)
 
+# Data Cleanup
+./custom/purge_files.sh ./processing
+
 # Clear previous runs
 rm -rf ./proj/google-maps-scraper/output/*
 
@@ -50,5 +53,3 @@ python3 ./proj/emailscraper/main.py ./processing/extracted-domains/clean/gmaps-e
 mail -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "results/Results_${date_string}_${time_string}.csv" -a "processing/latest-q/tmp_${fuid}.csv" "${email}" < /dev/null
 # mutt -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "./processing/extracted-emails/gmaps-extracted-emails-${date_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" -- $email < /dev/null
 
-# Data Cleanup
-#./custom/purge_files.sh ./processing
