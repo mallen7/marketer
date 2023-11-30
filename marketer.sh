@@ -49,7 +49,11 @@ mv ./processing/extracted-domains/clean/gmaps-extracted-domains.csv ./processing
 echo "Running email crawler..."
 python3 ./proj/emailscraper/main.py ./processing/extracted-domains/clean/gmaps-extracted-domains.txt
 
+# Run final data clean
+echo "Performing final data clean..."
+./custom/final-clean.sh gmaps-extracted-${fuid}.txt
+
 # Emailing results
-mail -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "results/Results_${date_string}_${time_string}.csv" -a "processing/latest-q/tmp_${fuid}.csv" "${email}" < /dev/null
+mail -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "results/emails_gmaps-extracted-${fuid}" -a "processing/latest-q/tmp_${fuid}.csv" "${email}" < /dev/null
 # mutt -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "./processing/extracted-emails/gmaps-extracted-emails-${date_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" -- $email < /dev/null
 
