@@ -25,7 +25,7 @@ cd ../..
 
 # Get latest Google Maps query output
 echo "Pulling scraper output..."
-find proj/google-maps-scraper/output -type f -name "*.csv" -not -path "proj/google-maps-scraper/output/all/*" -print0 | xargs -0 ls -t | head -n 1 | xargs -I '{}' cp -fr '{}' processing/latest-q/tmp_$fuid.csv
+find "proj/google-maps-scraper/output" -type f -name "*.csv" -not -path "proj/google-maps-scraper/output/all/*" -print0 | xargs -0 ls -t | head -n 1 | xargs -I '{}' cp -fr '{}' "processing/latest-q/tmp_$fuid.csv"
 if [ $? -ne 0 ]; then
     echo "Error occurred in find or copy command"
 fi
@@ -37,7 +37,8 @@ cut -d',' -f6 "processing/latest-q/tmp_${fuid}.csv" >> ./processing/extracted-do
 
 # Clean up domain data
 #echo "Cleaning data 1/2..."
-#sed -i '' -E 's#http(s)?://([^/]+)([^ ]*)#\2#g' ./processing/extracted-domains/dirty/gmaps-extracted-domains.csv
+#sed -i '' -E 's#http(s)?://([^/]+)([^ ]*)#\2#g' ./process
+ing/extracted-domains/dirty/gmaps-extracted-domains.csv
 
 # Clean domains again
 echo "Cleaning data 2/2..."
