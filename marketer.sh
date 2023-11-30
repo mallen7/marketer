@@ -11,7 +11,7 @@ export random_number=$(( RANDOM % 10000 ))
 export rand_num=$(printf "%04d" $random_number)
 
 # Data Cleanup
-./custom/purge_files.sh ./processing
+./custom/purge_files.sh ./processing ./results
 
 # Clear previous runs
 rm -rf ./proj/google-maps-scraper/output/*
