@@ -17,9 +17,9 @@ output_file="results/emails_${filename}"
 mkdir -p $(dirname "$output_file")
 
 # Regular expression for email validation
-email_regex='[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+email_regex='[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}'
 
 # Filtering valid email addresses
-grep -Eo "$email_regex" "$input_file" | sort | uniq > "$output_file"
+grep -Eo "$email_regex" "$input_file" | grep -Ev '\.(jpg|jpeg|png|gif)$' | sort | uniq > "$output_file"
 
 echo "Filtered email addresses saved to $output_file"
