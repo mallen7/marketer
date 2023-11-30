@@ -55,4 +55,4 @@ mail -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_t
 # mutt -s "Marketer; Google Maps/Email Scraper Results ${current_date}-${current_time}" -a "./processing/extracted-emails/gmaps-extracted-emails-${date_string}.csv" -a "./processing/latest-q/tmp_${fuid}.csv" -- $email < /dev/null
 
 # Data Cleanup
-./custom/purge_files.sh ./processing 
+#./custom/purge_files.sh ./processing
