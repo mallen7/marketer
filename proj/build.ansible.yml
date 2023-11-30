@@ -1,0 +1,40 @@
+
+---
+- name: Build Marketer Server
+  hosts: localhost
+  ignore_errors: true
+
+  tasks:
+    - name: Update apt cache
+      apt:
+        update_cache: yes
+
+    - name: Install dependencies
+      apt:
+        name: "{{ item }}"
+        state: present
+      with_items:
+        - python3-pip
+        - python3
+        - unzip
+        - git
+
+    - name: Pull git repository
+      git:
+        repo: "{{ repo }}"
+        dest: /opt
+      with_items:
+        - https://github.com/mallen7/marketer.git
+        - https://github.com/mallen7/google-maps-scraper.git
+
+    - name: Install pip dependencies
+      pip:
+        requirements: /opt/google-maps-scraper/requirements.txt
+
+    # Add more tasks as needed
+
+    - name: Restart services
+      service:
+        name: your_service
+        state: restarted
+      become: true
