@@ -42,7 +42,7 @@ cut -d',' -f6 "processing/latest-q/tmp_${fuid}.csv" >> "./processing/extracted-d
 # Clean domains again
 echo "Cleaning data 2/2..."
 ./custom/domain-cleaner.sh gmaps-extracted-domains.csv
-mv gmaps-extracted-domains.csv gmaps-extracted-domains.txt
+mv ./processing/extracted-domains/clean/gmaps-extracted-domains.csv ./processing/extracted-domains/clean/gmaps-extracted-domains.txt
 
 # rm -f ./processing/extracted-domains/gmaps-extracted-domains-dirty-${current_date}.csv
 
