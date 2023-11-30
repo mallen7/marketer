@@ -17,7 +17,7 @@ output_file="results/emails_${filename}"
 mkdir -p $(dirname "$output_file")
 
 # Regular expression for email validation
-email_regex='[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+email_regex='^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
 
 # Regular expression to exclude image file extensions
 exclude_image_regex='\.(jpeg|jpg|png|gif|bmp)$'
