@@ -2,13 +2,13 @@
 clear
 
 # Current date variable
-current_date=$(date +"%Y-%m-%d")
-current_time=$(date +"%H:%M:%S")
-fuid=${current_date}-${current_time}
+export current_date=$(date +"%Y-%m-%d")
+export current_time=$(date +"%H:%M:%S")
+export fuid=${current_date}-${current_time}
 
 # Generate a random number between 0000 and 9999 variable
-random_number=$(( RANDOM % 10000 ))
-rand_num=$(printf "%04d" $random_number)
+export random_number=$(( RANDOM % 10000 ))
+export rand_num=$(printf "%04d" $random_number)
 
 # Clear previous runs
 rm -rf ./proj/google-maps-scraper/output/*
