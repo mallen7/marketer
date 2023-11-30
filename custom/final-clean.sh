@@ -17,12 +17,9 @@ output_file="results/emails_${filename}"
 mkdir -p $(dirname "$output_file")
 
 # Regular expression for email validation
-email_regex='^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+email_regex='[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
 
-# Regular expression to exclude image file extensions
-exclude_image_regex='\.(jpeg|jpg|png|gif|bmp)$'
-
-# Filtering steps: First exclude lines with image extensions, then extract email addresses
-grep -Evi "$exclude_image_regex" "$input_file" | grep -Eo "$email_regex" > "$output_file"
+# Filtering valid email addresses
+grep -Eo "$email_regex" "$input_file" | sort | uniq > "$output_file"
 
 echo "Filtered email addresses saved to $output_file"
